@@ -1,0 +1,1354 @@
+row_index,column,original_value,corrected_value,rule_applied
+10,campus,quetta,Quetta,Campus standardized via fuzzy match / case correction
+12,campus,lahore,Lahore,Campus standardized via fuzzy match / case correction
+26,campus,QUETTA,Quetta,Campus standardized via fuzzy match / case correction
+30,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+31,campus,karachi,Karachi,Campus standardized via fuzzy match / case correction
+33,campus,KARACHI,Karachi,Campus standardized via fuzzy match / case correction
+35,campus,islamabad,Islamabad,Campus standardized via fuzzy match / case correction
+38,campus,MULTAN,Multan,Campus standardized via fuzzy match / case correction
+44,campus,karachi,Karachi,Campus standardized via fuzzy match / case correction
+48,campus,QUETTA,Quetta,Campus standardized via fuzzy match / case correction
+62,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+63,campus,PESHAWAR,Peshawar,Campus standardized via fuzzy match / case correction
+66,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+67,campus,PESHAWAR,Peshawar,Campus standardized via fuzzy match / case correction
+78,campus,RWP,Rawalpindi,Campus standardized via fuzzy match / case correction
+102,campus,FAISALABAD,Faisalabad,Campus standardized via fuzzy match / case correction
+119,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+140,campus,PESHAWAR,Peshawar,Campus standardized via fuzzy match / case correction
+149,campus,karachi,Karachi,Campus standardized via fuzzy match / case correction
+152,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+156,campus,ISB,Islamabad,Campus standardized via fuzzy match / case correction
+158,campus,QUETTA,Quetta,Campus standardized via fuzzy match / case correction
+159,campus,karachi,Karachi,Campus standardized via fuzzy match / case correction
+168,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+169,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+174,campus,ISB,Islamabad,Campus standardized via fuzzy match / case correction
+218,campus,quetta,Quetta,Campus standardized via fuzzy match / case correction
+224,campus,PESHAWAR,Peshawar,Campus standardized via fuzzy match / case correction
+229,campus,Fsd,Faisalabad,Campus standardized via fuzzy match / case correction
+249,campus,FAISALABAD,Faisalabad,Campus standardized via fuzzy match / case correction
+250,campus,PESHAWAR,Peshawar,Campus standardized via fuzzy match / case correction
+256,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+258,campus,KHI,Karachi,Campus standardized via fuzzy match / case correction
+265,campus,islamabad,Islamabad,Campus standardized via fuzzy match / case correction
+270,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+275,campus,Fsd,Faisalabad,Campus standardized via fuzzy match / case correction
+279,campus,MULTAN,Multan,Campus standardized via fuzzy match / case correction
+336,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+341,campus,lahore,Lahore,Campus standardized via fuzzy match / case correction
+346,campus,islamabad,Islamabad,Campus standardized via fuzzy match / case correction
+350,campus,PESHAWAR,Peshawar,Campus standardized via fuzzy match / case correction
+366,campus,faisalabad,Faisalabad,Campus standardized via fuzzy match / case correction
+373,campus,peshawar,Peshawar,Campus standardized via fuzzy match / case correction
+378,campus,Fsd,Faisalabad,Campus standardized via fuzzy match / case correction
+384,campus,rawalpindi,Rawalpindi,Campus standardized via fuzzy match / case correction
+385,campus,PESHAWAR,Peshawar,Campus standardized via fuzzy match / case correction
+387,campus,peshawar,Peshawar,Campus standardized via fuzzy match / case correction
+389,campus,rawalpindi,Rawalpindi,Campus standardized via fuzzy match / case correction
+396,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+405,campus,FAISALABAD,Faisalabad,Campus standardized via fuzzy match / case correction
+406,campus,RWP,Rawalpindi,Campus standardized via fuzzy match / case correction
+434,campus,ISB,Islamabad,Campus standardized via fuzzy match / case correction
+439,campus,Pesh,Peshawar,Campus standardized via fuzzy match / case correction
+442,campus,ISB,Islamabad,Campus standardized via fuzzy match / case correction
+447,campus,faisalabad,Faisalabad,Campus standardized via fuzzy match / case correction
+457,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+463,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+468,campus,QUETTA,Quetta,Campus standardized via fuzzy match / case correction
+482,campus,peshawar,Peshawar,Campus standardized via fuzzy match / case correction
+488,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+496,campus,PESHAWAR,Peshawar,Campus standardized via fuzzy match / case correction
+507,campus,quetta,Quetta,Campus standardized via fuzzy match / case correction
+528,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+530,campus,RWP,Rawalpindi,Campus standardized via fuzzy match / case correction
+535,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+536,campus,MULTAN,Multan,Campus standardized via fuzzy match / case correction
+541,campus,QUETTA,Quetta,Campus standardized via fuzzy match / case correction
+543,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+573,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+581,campus,peshawar,Peshawar,Campus standardized via fuzzy match / case correction
+583,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+586,campus,RWP,Rawalpindi,Campus standardized via fuzzy match / case correction
+587,campus,FAISALABAD,Faisalabad,Campus standardized via fuzzy match / case correction
+592,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+611,campus,lahore,Lahore,Campus standardized via fuzzy match / case correction
+612,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+614,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+618,campus,ISB,Islamabad,Campus standardized via fuzzy match / case correction
+620,campus,ISB,Islamabad,Campus standardized via fuzzy match / case correction
+629,campus,faisalabad,Faisalabad,Campus standardized via fuzzy match / case correction
+630,campus,lahore,Lahore,Campus standardized via fuzzy match / case correction
+632,campus,karachi,Karachi,Campus standardized via fuzzy match / case correction
+637,campus,KARACHI,Karachi,Campus standardized via fuzzy match / case correction
+646,campus,peshawar,Peshawar,Campus standardized via fuzzy match / case correction
+649,campus,karachi,Karachi,Campus standardized via fuzzy match / case correction
+653,campus,karachi,Karachi,Campus standardized via fuzzy match / case correction
+681,campus,quetta,Quetta,Campus standardized via fuzzy match / case correction
+713,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+715,campus,Pesh,Peshawar,Campus standardized via fuzzy match / case correction
+736,campus,Pindi,,Campus unrecognized — set to missing
+739,campus,FAISALABAD,Faisalabad,Campus standardized via fuzzy match / case correction
+740,campus,karachi,Karachi,Campus standardized via fuzzy match / case correction
+749,campus,QUETTA,Quetta,Campus standardized via fuzzy match / case correction
+750,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+791,campus,KARACHI,Karachi,Campus standardized via fuzzy match / case correction
+792,campus,KHI,Karachi,Campus standardized via fuzzy match / case correction
+802,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+805,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+820,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+822,campus,PESHAWAR,Peshawar,Campus standardized via fuzzy match / case correction
+826,campus,karachi,Karachi,Campus standardized via fuzzy match / case correction
+840,campus,Fsd,Faisalabad,Campus standardized via fuzzy match / case correction
+845,campus,QUETTA,Quetta,Campus standardized via fuzzy match / case correction
+851,campus,RWP,Rawalpindi,Campus standardized via fuzzy match / case correction
+854,campus,KARACHI,Karachi,Campus standardized via fuzzy match / case correction
+855,campus,lahore,Lahore,Campus standardized via fuzzy match / case correction
+856,campus,lahore,Lahore,Campus standardized via fuzzy match / case correction
+879,campus,QUETTA,Quetta,Campus standardized via fuzzy match / case correction
+885,campus,quetta,Quetta,Campus standardized via fuzzy match / case correction
+891,campus,faisalabad,Faisalabad,Campus standardized via fuzzy match / case correction
+900,campus,peshawar,Peshawar,Campus standardized via fuzzy match / case correction
+902,campus,ISB,Islamabad,Campus standardized via fuzzy match / case correction
+903,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+907,campus,quetta,Quetta,Campus standardized via fuzzy match / case correction
+910,campus,FAISALABAD,Faisalabad,Campus standardized via fuzzy match / case correction
+913,campus,rawalpindi,Rawalpindi,Campus standardized via fuzzy match / case correction
+917,campus,karachi,Karachi,Campus standardized via fuzzy match / case correction
+923,campus,quetta,Quetta,Campus standardized via fuzzy match / case correction
+926,campus,MULTAN,Multan,Campus standardized via fuzzy match / case correction
+946,campus,FAISALABAD,Faisalabad,Campus standardized via fuzzy match / case correction
+951,campus,KHI,Karachi,Campus standardized via fuzzy match / case correction
+959,campus,Pindi,,Campus unrecognized — set to missing
+962,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+963,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+978,campus,peshawar,Peshawar,Campus standardized via fuzzy match / case correction
+983,campus,RWP,Rawalpindi,Campus standardized via fuzzy match / case correction
+993,campus,islamabad,Islamabad,Campus standardized via fuzzy match / case correction
+1000,campus,Fsd,Faisalabad,Campus standardized via fuzzy match / case correction
+1008,campus,KHI,Karachi,Campus standardized via fuzzy match / case correction
+1016,campus,KHI,Karachi,Campus standardized via fuzzy match / case correction
+1021,campus,KHI,Karachi,Campus standardized via fuzzy match / case correction
+1036,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+1038,campus,lahore,Lahore,Campus standardized via fuzzy match / case correction
+1056,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+1063,campus,RWP,Rawalpindi,Campus standardized via fuzzy match / case correction
+1066,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+1074,campus,MULTAN,Multan,Campus standardized via fuzzy match / case correction
+1075,campus,faisalabad,Faisalabad,Campus standardized via fuzzy match / case correction
+1077,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+1083,campus,FAISALABAD,Faisalabad,Campus standardized via fuzzy match / case correction
+1088,campus,MULTAN,Multan,Campus standardized via fuzzy match / case correction
+1101,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+1105,campus,Pindi,,Campus unrecognized — set to missing
+1111,campus,QUETTA,Quetta,Campus standardized via fuzzy match / case correction
+1123,campus,KARACHI,Karachi,Campus standardized via fuzzy match / case correction
+1129,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+1146,campus,lahore,Lahore,Campus standardized via fuzzy match / case correction
+1149,campus,lahore,Lahore,Campus standardized via fuzzy match / case correction
+1154,campus,RWP,Rawalpindi,Campus standardized via fuzzy match / case correction
+1155,campus,islamabad,Islamabad,Campus standardized via fuzzy match / case correction
+1190,campus,rawalpindi,Rawalpindi,Campus standardized via fuzzy match / case correction
+1195,campus,peshawar,Peshawar,Campus standardized via fuzzy match / case correction
+1203,campus,MULTAN,Multan,Campus standardized via fuzzy match / case correction
+1215,campus,PESHAWAR,Peshawar,Campus standardized via fuzzy match / case correction
+1226,campus,Fsd,Faisalabad,Campus standardized via fuzzy match / case correction
+1238,campus,Fsd,Faisalabad,Campus standardized via fuzzy match / case correction
+1243,campus,KARACHI,Karachi,Campus standardized via fuzzy match / case correction
+1249,campus,Pesh,Peshawar,Campus standardized via fuzzy match / case correction
+1278,campus,MULTAN,Multan,Campus standardized via fuzzy match / case correction
+1289,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+1295,campus,islamabad,Islamabad,Campus standardized via fuzzy match / case correction
+1303,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+1305,campus,rawalpindi,Rawalpindi,Campus standardized via fuzzy match / case correction
+1315,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+1317,campus,faisalabad,Faisalabad,Campus standardized via fuzzy match / case correction
+1321,campus,rawalpindi,Rawalpindi,Campus standardized via fuzzy match / case correction
+1330,campus,RWP,Rawalpindi,Campus standardized via fuzzy match / case correction
+1354,campus,lahore,Lahore,Campus standardized via fuzzy match / case correction
+1366,campus,islamabad,Islamabad,Campus standardized via fuzzy match / case correction
+1367,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+1371,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+1372,campus,karachi,Karachi,Campus standardized via fuzzy match / case correction
+1395,campus,KARACHI,Karachi,Campus standardized via fuzzy match / case correction
+1397,campus,Fsd,Faisalabad,Campus standardized via fuzzy match / case correction
+1400,campus,MULTAN,Multan,Campus standardized via fuzzy match / case correction
+1406,campus,lahore,Lahore,Campus standardized via fuzzy match / case correction
+1409,campus,KHI,Karachi,Campus standardized via fuzzy match / case correction
+1418,campus,rawalpindi,Rawalpindi,Campus standardized via fuzzy match / case correction
+1420,campus,RWP,Rawalpindi,Campus standardized via fuzzy match / case correction
+1423,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+1441,campus,karachi,Karachi,Campus standardized via fuzzy match / case correction
+1448,campus,KHI,Karachi,Campus standardized via fuzzy match / case correction
+1470,campus,QUETTA,Quetta,Campus standardized via fuzzy match / case correction
+1471,campus,karachi,Karachi,Campus standardized via fuzzy match / case correction
+1475,campus,ISB,Islamabad,Campus standardized via fuzzy match / case correction
+1512,campus,Fsd,Faisalabad,Campus standardized via fuzzy match / case correction
+1517,campus,Pindi,,Campus unrecognized — set to missing
+1526,campus,Fsd,Faisalabad,Campus standardized via fuzzy match / case correction
+1527,campus,MULTAN,Multan,Campus standardized via fuzzy match / case correction
+1540,campus,rawalpindi,Rawalpindi,Campus standardized via fuzzy match / case correction
+1556,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+1557,campus,lahore,Lahore,Campus standardized via fuzzy match / case correction
+1562,campus,QUETTA,Quetta,Campus standardized via fuzzy match / case correction
+1567,campus,rawalpindi,Rawalpindi,Campus standardized via fuzzy match / case correction
+1570,campus,FAISALABAD,Faisalabad,Campus standardized via fuzzy match / case correction
+1576,campus,Fsd,Faisalabad,Campus standardized via fuzzy match / case correction
+1577,campus,Fsd,Faisalabad,Campus standardized via fuzzy match / case correction
+1582,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+1589,campus,KARACHI,Karachi,Campus standardized via fuzzy match / case correction
+1590,campus,QUETTA,Quetta,Campus standardized via fuzzy match / case correction
+1592,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+1612,campus,Pesh,Peshawar,Campus standardized via fuzzy match / case correction
+1614,campus,Fsd,Faisalabad,Campus standardized via fuzzy match / case correction
+1627,campus,KARACHI,Karachi,Campus standardized via fuzzy match / case correction
+1628,campus,rawalpindi,Rawalpindi,Campus standardized via fuzzy match / case correction
+1647,campus,lahore,Lahore,Campus standardized via fuzzy match / case correction
+1667,campus,Pesh,Peshawar,Campus standardized via fuzzy match / case correction
+1685,campus,lahore,Lahore,Campus standardized via fuzzy match / case correction
+1696,campus,multan,Multan,Campus standardized via fuzzy match / case correction
+1705,campus,Fsd,Faisalabad,Campus standardized via fuzzy match / case correction
+1707,campus,islamabad,Islamabad,Campus standardized via fuzzy match / case correction
+1732,campus,peshawar,Peshawar,Campus standardized via fuzzy match / case correction
+1741,campus,KARACHI,Karachi,Campus standardized via fuzzy match / case correction
+1750,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+1770,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+1778,campus,islamabad,Islamabad,Campus standardized via fuzzy match / case correction
+1783,campus,Lhr,Lahore,Campus standardized via fuzzy match / case correction
+1793,campus,ISB,Islamabad,Campus standardized via fuzzy match / case correction
+1795,campus,LAHORE,Lahore,Campus standardized via fuzzy match / case correction
+1799,campus,ISB,Islamabad,Campus standardized via fuzzy match / case correction
+4,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+14,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+15,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+53,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+62,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+67,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+84,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+138,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+139,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+144,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+148,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+151,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+159,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+174,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+242,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+257,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+270,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+283,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+293,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+314,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+320,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+329,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+357,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+361,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+377,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+391,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+464,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+473,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+495,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+537,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+544,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+545,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+553,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+569,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+607,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+612,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+625,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+665,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+674,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+720,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+781,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+782,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+783,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+793,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+794,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+803,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+859,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+959,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+974,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+977,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+982,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+992,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+996,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1001,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1007,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1010,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1013,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1038,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1045,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1053,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1070,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1124,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1162,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1163,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1211,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1223,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1299,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1334,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1344,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1354,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1365,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1390,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1391,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1417,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1423,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1428,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1459,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1488,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1504,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1517,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1528,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1547,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1549,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1571,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1595,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1602,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1635,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1640,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1647,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1655,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1676,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1682,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1691,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1692,leader_gender,M,Male,leader_gender standardized (M/F → Male/Female)
+1740,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+1744,leader_gender,F,Female,leader_gender standardized (M/F → Male/Female)
+0,proposal_date,17-Jun-25,2025-06-17,proposal_date standardized to ISO
+1,proposal_date,10/07/2024,2024-07-10,proposal_date standardized to ISO
+3,proposal_date,23-Jan-24,2024-01-23,proposal_date standardized to ISO
+4,proposal_date,04-Nov-23,2023-11-04,proposal_date standardized to ISO
+5,proposal_date,14/04/2025,2025-04-14,proposal_date standardized to ISO
+6,proposal_date,11/01/2025,2025-01-11,proposal_date standardized to ISO
+7,proposal_date,29-Nov-23,2023-11-29,proposal_date standardized to ISO
+10,proposal_date,19-Oct-24,2024-10-19,proposal_date standardized to ISO
+15,proposal_date,25-Sep-23,2023-09-25,proposal_date standardized to ISO
+17,proposal_date,23-Sep-23,2023-09-23,proposal_date standardized to ISO
+18,proposal_date,03-Apr-24,2024-04-03,proposal_date standardized to ISO
+20,proposal_date,24-Apr-24,2024-04-24,proposal_date standardized to ISO
+24,proposal_date,20-Jan-24,2024-01-20,proposal_date standardized to ISO
+25,proposal_date,08-Apr-25,2025-04-08,proposal_date standardized to ISO
+26,proposal_date,06-Mar-25,2025-03-06,proposal_date standardized to ISO
+27,proposal_date,11/03/2025,2025-03-11,proposal_date standardized to ISO
+28,proposal_date,31-Aug-24,2024-08-31,proposal_date standardized to ISO
+29,proposal_date,20-Nov-24,2024-11-20,proposal_date standardized to ISO
+30,proposal_date,17/03/2025,2025-03-17,proposal_date standardized to ISO
+33,proposal_date,23-Jul-25,2025-07-23,proposal_date standardized to ISO
+34,proposal_date,25-Sep-24,2024-09-25,proposal_date standardized to ISO
+35,proposal_date,23-Jan-24,2024-01-23,proposal_date standardized to ISO
+36,proposal_date,17/11/2023,2023-11-17,proposal_date standardized to ISO
+37,proposal_date,15-Mar-24,2024-03-15,proposal_date standardized to ISO
+40,proposal_date,04-Oct-24,2024-10-04,proposal_date standardized to ISO
+43,proposal_date,05/12/2024,2024-12-05,proposal_date standardized to ISO
+44,proposal_date,10-May-24,2024-05-10,proposal_date standardized to ISO
+46,proposal_date,15/03/2024,2024-03-15,proposal_date standardized to ISO
+48,proposal_date,06-Aug-24,2024-08-06,proposal_date standardized to ISO
+51,proposal_date,13/09/2023,2023-09-13,proposal_date standardized to ISO
+55,proposal_date,23-Mar-25,2025-03-23,proposal_date standardized to ISO
+56,proposal_date,02/12/2023,2023-12-02,proposal_date standardized to ISO
+57,proposal_date,06/07/2024,2024-07-06,proposal_date standardized to ISO
+64,proposal_date,21/01/2024,2024-01-21,proposal_date standardized to ISO
+65,proposal_date,18-May-25,2025-05-18,proposal_date standardized to ISO
+66,proposal_date,09-Sep-24,2024-09-09,proposal_date standardized to ISO
+69,proposal_date,17-Nov-24,2024-11-17,proposal_date standardized to ISO
+71,proposal_date,14-Jan-25,2025-01-14,proposal_date standardized to ISO
+72,proposal_date,06/09/2023,2023-09-06,proposal_date standardized to ISO
+75,proposal_date,12-Jul-25,2025-07-12,proposal_date standardized to ISO
+76,proposal_date,03-Feb-24,2024-02-03,proposal_date standardized to ISO
+78,proposal_date,22/06/2025,2025-06-22,proposal_date standardized to ISO
+79,proposal_date,16/03/2025,2025-03-16,proposal_date standardized to ISO
+80,proposal_date,26-Feb-24,2024-02-26,proposal_date standardized to ISO
+81,proposal_date,24-Jan-24,2024-01-24,proposal_date standardized to ISO
+83,proposal_date,29/09/2024,2024-09-29,proposal_date standardized to ISO
+84,proposal_date,14/12/2024,2024-12-14,proposal_date standardized to ISO
+85,proposal_date,24-Sep-24,2024-09-24,proposal_date standardized to ISO
+86,proposal_date,05-Mar-24,2024-03-05,proposal_date standardized to ISO
+88,proposal_date,22/09/2025,2025-09-22,proposal_date standardized to ISO
+89,proposal_date,02/09/2023,2023-09-02,proposal_date standardized to ISO
+90,proposal_date,20/06/2024,2024-06-20,proposal_date standardized to ISO
+94,proposal_date,18-Sep-25,2025-09-18,proposal_date standardized to ISO
+96,proposal_date,23/11/2024,2024-11-23,proposal_date standardized to ISO
+98,proposal_date,06/09/2024,2024-09-06,proposal_date standardized to ISO
+100,proposal_date,18/03/2025,2025-03-18,proposal_date standardized to ISO
+101,proposal_date,06/09/2024,2024-09-06,proposal_date standardized to ISO
+103,proposal_date,18-Oct-24,2024-10-18,proposal_date standardized to ISO
+104,proposal_date,25/03/2025,2025-03-25,proposal_date standardized to ISO
+106,proposal_date,15-Mar-24,2024-03-15,proposal_date standardized to ISO
+108,proposal_date,28/12/2023,2023-12-28,proposal_date standardized to ISO
+109,proposal_date,08/12/2023,2023-12-08,proposal_date standardized to ISO
+110,proposal_date,02/12/2023,2023-12-02,proposal_date standardized to ISO
+112,proposal_date,18-Mar-25,2025-03-18,proposal_date standardized to ISO
+113,proposal_date,05/09/2025,2025-09-05,proposal_date standardized to ISO
+114,proposal_date,25/11/2024,2024-11-25,proposal_date standardized to ISO
+115,proposal_date,18-Apr-24,2024-04-18,proposal_date standardized to ISO
+116,proposal_date,23-Apr-25,2025-04-23,proposal_date standardized to ISO
+118,proposal_date,15-Feb-25,2025-02-15,proposal_date standardized to ISO
+119,proposal_date,15-Mar-24,2024-03-15,proposal_date standardized to ISO
+121,proposal_date,21/08/2025,2025-08-21,proposal_date standardized to ISO
+123,proposal_date,11-Mar-25,2025-03-11,proposal_date standardized to ISO
+124,proposal_date,28/09/2023,2023-09-28,proposal_date standardized to ISO
+126,proposal_date,08/01/2024,2024-01-08,proposal_date standardized to ISO
+129,proposal_date,31-Mar-24,2024-03-31,proposal_date standardized to ISO
+130,proposal_date,27/03/2025,2025-03-27,proposal_date standardized to ISO
+131,proposal_date,03/11/2024,2024-11-03,proposal_date standardized to ISO
+133,proposal_date,11/05/2024,2024-05-11,proposal_date standardized to ISO
+135,proposal_date,13/05/2024,2024-05-13,proposal_date standardized to ISO
+136,proposal_date,13/05/2024,2024-05-13,proposal_date standardized to ISO
+138,proposal_date,19-May-24,2024-05-19,proposal_date standardized to ISO
+139,proposal_date,02/08/2024,2024-08-02,proposal_date standardized to ISO
+140,proposal_date,18-Nov-24,2024-11-18,proposal_date standardized to ISO
+141,proposal_date,24/03/2024,2024-03-24,proposal_date standardized to ISO
+144,proposal_date,07/02/2024,2024-02-07,proposal_date standardized to ISO
+146,proposal_date,13/04/2025,2025-04-13,proposal_date standardized to ISO
+148,proposal_date,10-Sep-25,2025-09-10,proposal_date standardized to ISO
+154,proposal_date,22/02/2025,2025-02-22,proposal_date standardized to ISO
+155,proposal_date,16/05/2025,2025-05-16,proposal_date standardized to ISO
+156,proposal_date,26-Oct-24,2024-10-26,proposal_date standardized to ISO
+160,proposal_date,21-Aug-24,2024-08-21,proposal_date standardized to ISO
+161,proposal_date,30/10/2024,2024-10-30,proposal_date standardized to ISO
+163,proposal_date,28-May-25,2025-05-28,proposal_date standardized to ISO
+165,proposal_date,22-Dec-24,2024-12-22,proposal_date standardized to ISO
+167,proposal_date,20/06/2025,2025-06-20,proposal_date standardized to ISO
+168,proposal_date,31/01/2024,2024-01-31,proposal_date standardized to ISO
+171,proposal_date,17/08/2025,2025-08-17,proposal_date standardized to ISO
+173,proposal_date,04-Oct-24,2024-10-04,proposal_date standardized to ISO
+175,proposal_date,05-Jun-24,2024-06-05,proposal_date standardized to ISO
+179,proposal_date,20/12/2024,2024-12-20,proposal_date standardized to ISO
+180,proposal_date,02/04/2024,2024-04-02,proposal_date standardized to ISO
+182,proposal_date,26/09/2023,2023-09-26,proposal_date standardized to ISO
+183,proposal_date,10-Mar-25,2025-03-10,proposal_date standardized to ISO
+186,proposal_date,07-Dec-24,2024-12-07,proposal_date standardized to ISO
+190,proposal_date,16-Mar-25,2025-03-16,proposal_date standardized to ISO
+193,proposal_date,05-Jul-24,2024-07-05,proposal_date standardized to ISO
+194,proposal_date,19-Oct-25,2025-10-19,proposal_date standardized to ISO
+195,proposal_date,04-Jul-24,2024-07-04,proposal_date standardized to ISO
+196,proposal_date,05/09/2025,2025-09-05,proposal_date standardized to ISO
+197,proposal_date,26-May-25,2025-05-26,proposal_date standardized to ISO
+201,proposal_date,27/12/2023,2023-12-27,proposal_date standardized to ISO
+202,proposal_date,02-Oct-23,2023-10-02,proposal_date standardized to ISO
+204,proposal_date,16-May-24,2024-05-16,proposal_date standardized to ISO
+207,proposal_date,23/09/2023,2023-09-23,proposal_date standardized to ISO
+208,proposal_date,25-Dec-23,2023-12-25,proposal_date standardized to ISO
+210,proposal_date,20/09/2024,2024-09-20,proposal_date standardized to ISO
+212,proposal_date,05-Nov-24,2024-11-05,proposal_date standardized to ISO
+213,proposal_date,05/07/2024,2024-07-05,proposal_date standardized to ISO
+214,proposal_date,22/08/2024,2024-08-22,proposal_date standardized to ISO
+216,proposal_date,22/06/2025,2025-06-22,proposal_date standardized to ISO
+218,proposal_date,14/07/2025,2025-07-14,proposal_date standardized to ISO
+219,proposal_date,27-Jun-24,2024-06-27,proposal_date standardized to ISO
+220,proposal_date,06/01/2025,2025-01-06,proposal_date standardized to ISO
+223,proposal_date,19-Nov-24,2024-11-19,proposal_date standardized to ISO
+225,proposal_date,06-Jan-24,2024-01-06,proposal_date standardized to ISO
+227,proposal_date,01/10/2025,2025-10-01,proposal_date standardized to ISO
+229,proposal_date,12-Sep-23,2023-09-12,proposal_date standardized to ISO
+230,proposal_date,09/03/2024,2024-03-09,proposal_date standardized to ISO
+231,proposal_date,24-Jun-24,2024-06-24,proposal_date standardized to ISO
+233,proposal_date,29/10/2024,2024-10-29,proposal_date standardized to ISO
+234,proposal_date,31-Aug-25,2025-08-31,proposal_date standardized to ISO
+235,proposal_date,27/01/2024,2024-01-27,proposal_date standardized to ISO
+237,proposal_date,14/11/2023,2023-11-14,proposal_date standardized to ISO
+238,proposal_date,08/10/2023,2023-10-08,proposal_date standardized to ISO
+241,proposal_date,23-Apr-25,2025-04-23,proposal_date standardized to ISO
+243,proposal_date,06-Jan-25,2025-01-06,proposal_date standardized to ISO
+246,proposal_date,22/11/2024,2024-11-22,proposal_date standardized to ISO
+248,proposal_date,28-Feb-25,2025-02-28,proposal_date standardized to ISO
+249,proposal_date,27-May-25,2025-05-27,proposal_date standardized to ISO
+251,proposal_date,29-May-24,2024-05-29,proposal_date standardized to ISO
+253,proposal_date,05/12/2024,2024-12-05,proposal_date standardized to ISO
+255,proposal_date,22-Dec-23,2023-12-22,proposal_date standardized to ISO
+256,proposal_date,11-Feb-24,2024-02-11,proposal_date standardized to ISO
+257,proposal_date,01-Apr-25,2025-04-01,proposal_date standardized to ISO
+258,proposal_date,24/07/2024,2024-07-24,proposal_date standardized to ISO
+259,proposal_date,17/09/2024,2024-09-17,proposal_date standardized to ISO
+260,proposal_date,26-Sep-24,2024-09-26,proposal_date standardized to ISO
+261,proposal_date,27-Oct-23,2023-10-27,proposal_date standardized to ISO
+262,proposal_date,19/07/2025,2025-07-19,proposal_date standardized to ISO
+263,proposal_date,22-Feb-24,2024-02-22,proposal_date standardized to ISO
+264,proposal_date,29/12/2024,2024-12-29,proposal_date standardized to ISO
+265,proposal_date,22-Oct-24,2024-10-22,proposal_date standardized to ISO
+266,proposal_date,06-Aug-24,2024-08-06,proposal_date standardized to ISO
+268,proposal_date,13-Aug-24,2024-08-13,proposal_date standardized to ISO
+270,proposal_date,03-Feb-25,2025-02-03,proposal_date standardized to ISO
+271,proposal_date,16/04/2024,2024-04-16,proposal_date standardized to ISO
+275,proposal_date,04-Jun-24,2024-06-04,proposal_date standardized to ISO
+278,proposal_date,12/01/2024,2024-01-12,proposal_date standardized to ISO
+279,proposal_date,15-Oct-23,2023-10-15,proposal_date standardized to ISO
+280,proposal_date,21/09/2025,2025-09-21,proposal_date standardized to ISO
+283,proposal_date,03-Dec-23,2023-12-03,proposal_date standardized to ISO
+284,proposal_date,28-Sep-24,2024-09-28,proposal_date standardized to ISO
+285,proposal_date,03/08/2025,2025-08-03,proposal_date standardized to ISO
+286,proposal_date,16-Jun-25,2025-06-16,proposal_date standardized to ISO
+287,proposal_date,18-Oct-25,2025-10-18,proposal_date standardized to ISO
+292,proposal_date,18/12/2024,2024-12-18,proposal_date standardized to ISO
+293,proposal_date,18-Aug-25,2025-08-18,proposal_date standardized to ISO
+296,proposal_date,18/06/2025,2025-06-18,proposal_date standardized to ISO
+301,proposal_date,19/09/2025,2025-09-19,proposal_date standardized to ISO
+305,proposal_date,17/11/2023,2023-11-17,proposal_date standardized to ISO
+306,proposal_date,31-Jan-25,2025-01-31,proposal_date standardized to ISO
+307,proposal_date,18/01/2025,2025-01-18,proposal_date standardized to ISO
+308,proposal_date,27/06/2025,2025-06-27,proposal_date standardized to ISO
+309,proposal_date,25/04/2024,2024-04-25,proposal_date standardized to ISO
+311,proposal_date,10-Jun-25,2025-06-10,proposal_date standardized to ISO
+313,proposal_date,12/02/2025,2025-02-12,proposal_date standardized to ISO
+315,proposal_date,11-Jun-25,2025-06-11,proposal_date standardized to ISO
+316,proposal_date,19/06/2025,2025-06-19,proposal_date standardized to ISO
+317,proposal_date,20/01/2024,2024-01-20,proposal_date standardized to ISO
+318,proposal_date,03-Aug-24,2024-08-03,proposal_date standardized to ISO
+320,proposal_date,15/08/2025,2025-08-15,proposal_date standardized to ISO
+322,proposal_date,07/01/2025,2025-01-07,proposal_date standardized to ISO
+325,proposal_date,16-Mar-24,2024-03-16,proposal_date standardized to ISO
+326,proposal_date,06-Mar-25,2025-03-06,proposal_date standardized to ISO
+327,proposal_date,30-Sep-24,2024-09-30,proposal_date standardized to ISO
+328,proposal_date,16/07/2025,2025-07-16,proposal_date standardized to ISO
+331,proposal_date,21/06/2024,2024-06-21,proposal_date standardized to ISO
+332,proposal_date,29/07/2024,2024-07-29,proposal_date standardized to ISO
+333,proposal_date,10/11/2024,2024-11-10,proposal_date standardized to ISO
+334,proposal_date,22-Oct-24,2024-10-22,proposal_date standardized to ISO
+335,proposal_date,30/03/2024,2024-03-30,proposal_date standardized to ISO
+336,proposal_date,03-Feb-25,2025-02-03,proposal_date standardized to ISO
+341,proposal_date,01/06/2025,2025-06-01,proposal_date standardized to ISO
+343,proposal_date,22/06/2025,2025-06-22,proposal_date standardized to ISO
+345,proposal_date,21/12/2023,2023-12-21,proposal_date standardized to ISO
+346,proposal_date,22-Oct-23,2023-10-22,proposal_date standardized to ISO
+347,proposal_date,13/03/2025,2025-03-13,proposal_date standardized to ISO
+350,proposal_date,18-Oct-24,2024-10-18,proposal_date standardized to ISO
+351,proposal_date,22-Aug-25,2025-08-22,proposal_date standardized to ISO
+353,proposal_date,05-Apr-25,2025-04-05,proposal_date standardized to ISO
+354,proposal_date,18-May-25,2025-05-18,proposal_date standardized to ISO
+356,proposal_date,19-Sep-24,2024-09-19,proposal_date standardized to ISO
+358,proposal_date,08/08/2024,2024-08-08,proposal_date standardized to ISO
+359,proposal_date,20/04/2024,2024-04-20,proposal_date standardized to ISO
+362,proposal_date,28-Jun-24,2024-06-28,proposal_date standardized to ISO
+363,proposal_date,18/07/2024,2024-07-18,proposal_date standardized to ISO
+364,proposal_date,16-Apr-24,2024-04-16,proposal_date standardized to ISO
+365,proposal_date,24-Jul-24,2024-07-24,proposal_date standardized to ISO
+367,proposal_date,27-Nov-24,2024-11-27,proposal_date standardized to ISO
+369,proposal_date,05/03/2025,2025-03-05,proposal_date standardized to ISO
+374,proposal_date,13-Dec-24,2024-12-13,proposal_date standardized to ISO
+376,proposal_date,12-Apr-24,2024-04-12,proposal_date standardized to ISO
+377,proposal_date,21-Sep-24,2024-09-21,proposal_date standardized to ISO
+379,proposal_date,01/02/2025,2025-02-01,proposal_date standardized to ISO
+382,proposal_date,17-Jan-24,2024-01-17,proposal_date standardized to ISO
+383,proposal_date,17-Jul-25,2025-07-17,proposal_date standardized to ISO
+386,proposal_date,04-Jul-24,2024-07-04,proposal_date standardized to ISO
+389,proposal_date,31/12/2023,2023-12-31,proposal_date standardized to ISO
+390,proposal_date,06/06/2025,2025-06-06,proposal_date standardized to ISO
+391,proposal_date,18/03/2025,2025-03-18,proposal_date standardized to ISO
+392,proposal_date,16-Apr-24,2024-04-16,proposal_date standardized to ISO
+394,proposal_date,29-May-24,2024-05-29,proposal_date standardized to ISO
+395,proposal_date,12/05/2025,2025-05-12,proposal_date standardized to ISO
+396,proposal_date,23-Mar-24,2024-03-23,proposal_date standardized to ISO
+398,proposal_date,29-Apr-25,2025-04-29,proposal_date standardized to ISO
+400,proposal_date,12/06/2025,2025-06-12,proposal_date standardized to ISO
+401,proposal_date,08-May-24,2024-05-08,proposal_date standardized to ISO
+402,proposal_date,23/01/2024,2024-01-23,proposal_date standardized to ISO
+403,proposal_date,27/04/2025,2025-04-27,proposal_date standardized to ISO
+404,proposal_date,09/07/2024,2024-07-09,proposal_date standardized to ISO
+405,proposal_date,22/02/2025,2025-02-22,proposal_date standardized to ISO
+406,proposal_date,01/06/2024,2024-06-01,proposal_date standardized to ISO
+409,proposal_date,16/12/2024,2024-12-16,proposal_date standardized to ISO
+412,proposal_date,08/06/2025,2025-06-08,proposal_date standardized to ISO
+415,proposal_date,09/06/2024,2024-06-09,proposal_date standardized to ISO
+417,proposal_date,14/04/2025,2025-04-14,proposal_date standardized to ISO
+419,proposal_date,20-Jun-24,2024-06-20,proposal_date standardized to ISO
+420,proposal_date,10-Sep-23,2023-09-10,proposal_date standardized to ISO
+421,proposal_date,30-Jun-24,2024-06-30,proposal_date standardized to ISO
+422,proposal_date,03/04/2025,2025-04-03,proposal_date standardized to ISO
+427,proposal_date,15-Apr-24,2024-04-15,proposal_date standardized to ISO
+428,proposal_date,11/03/2024,2024-03-11,proposal_date standardized to ISO
+430,proposal_date,29/11/2024,2024-11-29,proposal_date standardized to ISO
+432,proposal_date,21/01/2025,2025-01-21,proposal_date standardized to ISO
+433,proposal_date,23-Dec-23,2023-12-23,proposal_date standardized to ISO
+434,proposal_date,14-Oct-25,2025-10-14,proposal_date standardized to ISO
+435,proposal_date,05/01/2024,2024-01-05,proposal_date standardized to ISO
+437,proposal_date,03-Sep-24,2024-09-03,proposal_date standardized to ISO
+438,proposal_date,07/12/2024,2024-12-07,proposal_date standardized to ISO
+439,proposal_date,10-Feb-24,2024-02-10,proposal_date standardized to ISO
+441,proposal_date,15/04/2024,2024-04-15,proposal_date standardized to ISO
+443,proposal_date,15/05/2024,2024-05-15,proposal_date standardized to ISO
+444,proposal_date,17/01/2025,2025-01-17,proposal_date standardized to ISO
+445,proposal_date,17-Dec-23,2023-12-17,proposal_date standardized to ISO
+446,proposal_date,16/01/2024,2024-01-16,proposal_date standardized to ISO
+447,proposal_date,16/01/2025,2025-01-16,proposal_date standardized to ISO
+450,proposal_date,27/04/2024,2024-04-27,proposal_date standardized to ISO
+451,proposal_date,24-Jan-25,2025-01-24,proposal_date standardized to ISO
+452,proposal_date,17/09/2025,2025-09-17,proposal_date standardized to ISO
+453,proposal_date,11/02/2025,2025-02-11,proposal_date standardized to ISO
+454,proposal_date,11/09/2025,2025-09-11,proposal_date standardized to ISO
+456,proposal_date,14-Nov-23,2023-11-14,proposal_date standardized to ISO
+457,proposal_date,15-Mar-25,2025-03-15,proposal_date standardized to ISO
+458,proposal_date,24/11/2023,2023-11-24,proposal_date standardized to ISO
+461,proposal_date,19-Aug-24,2024-08-19,proposal_date standardized to ISO
+462,proposal_date,21-Mar-24,2024-03-21,proposal_date standardized to ISO
+463,proposal_date,22-Jun-25,2025-06-22,proposal_date standardized to ISO
+464,proposal_date,09-Jan-25,2025-01-09,proposal_date standardized to ISO
+466,proposal_date,27-Jan-25,2025-01-27,proposal_date standardized to ISO
+467,proposal_date,23/08/2024,2024-08-23,proposal_date standardized to ISO
+470,proposal_date,16/09/2023,2023-09-16,proposal_date standardized to ISO
+475,proposal_date,28/11/2024,2024-11-28,proposal_date standardized to ISO
+477,proposal_date,21/06/2024,2024-06-21,proposal_date standardized to ISO
+478,proposal_date,03-Mar-24,2024-03-03,proposal_date standardized to ISO
+480,proposal_date,23-Jan-25,2025-01-23,proposal_date standardized to ISO
+482,proposal_date,28/06/2025,2025-06-28,proposal_date standardized to ISO
+483,proposal_date,28-Dec-23,2023-12-28,proposal_date standardized to ISO
+484,proposal_date,13/11/2023,2023-11-13,proposal_date standardized to ISO
+486,proposal_date,23/10/2023,2023-10-23,proposal_date standardized to ISO
+487,proposal_date,28/02/2025,2025-02-28,proposal_date standardized to ISO
+488,proposal_date,10/10/2023,2023-10-10,proposal_date standardized to ISO
+489,proposal_date,18-Mar-24,2024-03-18,proposal_date standardized to ISO
+491,proposal_date,21-Aug-25,2025-08-21,proposal_date standardized to ISO
+493,proposal_date,03/02/2024,2024-02-03,proposal_date standardized to ISO
+494,proposal_date,25/03/2024,2024-03-25,proposal_date standardized to ISO
+495,proposal_date,30/05/2025,2025-05-30,proposal_date standardized to ISO
+497,proposal_date,01-Oct-23,2023-10-01,proposal_date standardized to ISO
+498,proposal_date,30-Jun-25,2025-06-30,proposal_date standardized to ISO
+501,proposal_date,27/08/2025,2025-08-27,proposal_date standardized to ISO
+502,proposal_date,07-May-24,2024-05-07,proposal_date standardized to ISO
+503,proposal_date,14-Sep-23,2023-09-14,proposal_date standardized to ISO
+508,proposal_date,14/04/2025,2025-04-14,proposal_date standardized to ISO
+510,proposal_date,07/01/2024,2024-01-07,proposal_date standardized to ISO
+513,proposal_date,11/11/2024,2024-11-11,proposal_date standardized to ISO
+515,proposal_date,22/03/2025,2025-03-22,proposal_date standardized to ISO
+517,proposal_date,11-Oct-25,2025-10-11,proposal_date standardized to ISO
+518,proposal_date,09/10/2025,2025-10-09,proposal_date standardized to ISO
+519,proposal_date,20/08/2025,2025-08-20,proposal_date standardized to ISO
+520,proposal_date,14/02/2025,2025-02-14,proposal_date standardized to ISO
+521,proposal_date,12/12/2024,2024-12-12,proposal_date standardized to ISO
+526,proposal_date,17/04/2024,2024-04-17,proposal_date standardized to ISO
+527,proposal_date,01/11/2023,2023-11-01,proposal_date standardized to ISO
+529,proposal_date,21/05/2025,2025-05-21,proposal_date standardized to ISO
+530,proposal_date,05/02/2024,2024-02-05,proposal_date standardized to ISO
+534,proposal_date,04/11/2024,2024-11-04,proposal_date standardized to ISO
+535,proposal_date,20/11/2024,2024-11-20,proposal_date standardized to ISO
+537,proposal_date,10/03/2025,2025-03-10,proposal_date standardized to ISO
+541,proposal_date,18/11/2023,2023-11-18,proposal_date standardized to ISO
+543,proposal_date,30-Aug-24,2024-08-30,proposal_date standardized to ISO
+544,proposal_date,11-Feb-24,2024-02-11,proposal_date standardized to ISO
+545,proposal_date,21-May-24,2024-05-21,proposal_date standardized to ISO
+546,proposal_date,31/01/2024,2024-01-31,proposal_date standardized to ISO
+548,proposal_date,26/03/2025,2025-03-26,proposal_date standardized to ISO
+549,proposal_date,03/02/2024,2024-02-03,proposal_date standardized to ISO
+550,proposal_date,24/01/2024,2024-01-24,proposal_date standardized to ISO
+551,proposal_date,23/11/2023,2023-11-23,proposal_date standardized to ISO
+552,proposal_date,07/10/2023,2023-10-07,proposal_date standardized to ISO
+553,proposal_date,19-Apr-25,2025-04-19,proposal_date standardized to ISO
+554,proposal_date,01-Jun-24,2024-06-01,proposal_date standardized to ISO
+555,proposal_date,16/06/2024,2024-06-16,proposal_date standardized to ISO
+556,proposal_date,08/03/2025,2025-03-08,proposal_date standardized to ISO
+560,proposal_date,18-Sep-24,2024-09-18,proposal_date standardized to ISO
+561,proposal_date,26/02/2024,2024-02-26,proposal_date standardized to ISO
+562,proposal_date,27/01/2024,2024-01-27,proposal_date standardized to ISO
+564,proposal_date,26-Oct-24,2024-10-26,proposal_date standardized to ISO
+565,proposal_date,27-Jul-24,2024-07-27,proposal_date standardized to ISO
+566,proposal_date,15-Dec-24,2024-12-15,proposal_date standardized to ISO
+568,proposal_date,16-Jan-25,2025-01-16,proposal_date standardized to ISO
+569,proposal_date,23/04/2024,2024-04-23,proposal_date standardized to ISO
+572,proposal_date,17-Mar-24,2024-03-17,proposal_date standardized to ISO
+575,proposal_date,18-Dec-24,2024-12-18,proposal_date standardized to ISO
+577,proposal_date,26/07/2025,2025-07-26,proposal_date standardized to ISO
+582,proposal_date,12-Jul-24,2024-07-12,proposal_date standardized to ISO
+583,proposal_date,17/02/2024,2024-02-17,proposal_date standardized to ISO
+586,proposal_date,11-Mar-24,2024-03-11,proposal_date standardized to ISO
+587,proposal_date,14/12/2024,2024-12-14,proposal_date standardized to ISO
+588,proposal_date,01/03/2024,2024-03-01,proposal_date standardized to ISO
+589,proposal_date,28-Dec-24,2024-12-28,proposal_date standardized to ISO
+591,proposal_date,01/08/2024,2024-08-01,proposal_date standardized to ISO
+593,proposal_date,17/09/2025,2025-09-17,proposal_date standardized to ISO
+594,proposal_date,31/05/2025,2025-05-31,proposal_date standardized to ISO
+596,proposal_date,28-Jan-24,2024-01-28,proposal_date standardized to ISO
+597,proposal_date,31-Mar-24,2024-03-31,proposal_date standardized to ISO
+600,proposal_date,14/03/2025,2025-03-14,proposal_date standardized to ISO
+603,proposal_date,09-Sep-23,2023-09-09,proposal_date standardized to ISO
+605,proposal_date,16-Dec-23,2023-12-16,proposal_date standardized to ISO
+608,proposal_date,20/12/2023,2023-12-20,proposal_date standardized to ISO
+616,proposal_date,18-Feb-24,2024-02-18,proposal_date standardized to ISO
+617,proposal_date,19-Nov-23,2023-11-19,proposal_date standardized to ISO
+618,proposal_date,07-Sep-24,2024-09-07,proposal_date standardized to ISO
+619,proposal_date,14/08/2024,2024-08-14,proposal_date standardized to ISO
+620,proposal_date,09/04/2025,2025-04-09,proposal_date standardized to ISO
+621,proposal_date,09-Apr-25,2025-04-09,proposal_date standardized to ISO
+623,proposal_date,02-Jun-25,2025-06-02,proposal_date standardized to ISO
+624,proposal_date,03-May-25,2025-05-03,proposal_date standardized to ISO
+627,proposal_date,21/03/2025,2025-03-21,proposal_date standardized to ISO
+628,proposal_date,09/01/2024,2024-01-09,proposal_date standardized to ISO
+629,proposal_date,07-Oct-24,2024-10-07,proposal_date standardized to ISO
+630,proposal_date,25/05/2024,2024-05-25,proposal_date standardized to ISO
+631,proposal_date,25-Apr-24,2024-04-25,proposal_date standardized to ISO
+632,proposal_date,21/08/2025,2025-08-21,proposal_date standardized to ISO
+634,proposal_date,08/11/2024,2024-11-08,proposal_date standardized to ISO
+638,proposal_date,28-May-25,2025-05-28,proposal_date standardized to ISO
+639,proposal_date,07-Jan-24,2024-01-07,proposal_date standardized to ISO
+640,proposal_date,29/05/2025,2025-05-29,proposal_date standardized to ISO
+641,proposal_date,05/02/2025,2025-02-05,proposal_date standardized to ISO
+647,proposal_date,24-Jun-24,2024-06-24,proposal_date standardized to ISO
+649,proposal_date,19/04/2024,2024-04-19,proposal_date standardized to ISO
+651,proposal_date,18-Jun-25,2025-06-18,proposal_date standardized to ISO
+652,proposal_date,09/05/2024,2024-05-09,proposal_date standardized to ISO
+653,proposal_date,05-Sep-24,2024-09-05,proposal_date standardized to ISO
+655,proposal_date,03/09/2023,2023-09-03,proposal_date standardized to ISO
+656,proposal_date,17-Jun-24,2024-06-17,proposal_date standardized to ISO
+657,proposal_date,09-Jan-24,2024-01-09,proposal_date standardized to ISO
+658,proposal_date,23/03/2025,2025-03-23,proposal_date standardized to ISO
+659,proposal_date,24-Oct-24,2024-10-24,proposal_date standardized to ISO
+660,proposal_date,31/12/2024,2024-12-31,proposal_date standardized to ISO
+661,proposal_date,24-Jun-24,2024-06-24,proposal_date standardized to ISO
+662,proposal_date,20/10/2023,2023-10-20,proposal_date standardized to ISO
+663,proposal_date,31/05/2025,2025-05-31,proposal_date standardized to ISO
+664,proposal_date,10/06/2024,2024-06-10,proposal_date standardized to ISO
+666,proposal_date,31/10/2023,2023-10-31,proposal_date standardized to ISO
+668,proposal_date,07/02/2025,2025-02-07,proposal_date standardized to ISO
+669,proposal_date,09-Jan-24,2024-01-09,proposal_date standardized to ISO
+672,proposal_date,17/08/2025,2025-08-17,proposal_date standardized to ISO
+673,proposal_date,01/04/2025,2025-04-01,proposal_date standardized to ISO
+675,proposal_date,02/02/2025,2025-02-02,proposal_date standardized to ISO
+676,proposal_date,18-Apr-24,2024-04-18,proposal_date standardized to ISO
+678,proposal_date,21/10/2023,2023-10-21,proposal_date standardized to ISO
+679,proposal_date,20-Oct-24,2024-10-20,proposal_date standardized to ISO
+681,proposal_date,01-Sep-24,2024-09-01,proposal_date standardized to ISO
+682,proposal_date,23/01/2024,2024-01-23,proposal_date standardized to ISO
+684,proposal_date,27-May-25,2025-05-27,proposal_date standardized to ISO
+685,proposal_date,09-Sep-23,2023-09-09,proposal_date standardized to ISO
+686,proposal_date,03/06/2025,2025-06-03,proposal_date standardized to ISO
+687,proposal_date,10/03/2025,2025-03-10,proposal_date standardized to ISO
+690,proposal_date,07-Nov-23,2023-11-07,proposal_date standardized to ISO
+692,proposal_date,23-Feb-24,2024-02-23,proposal_date standardized to ISO
+694,proposal_date,13-Nov-24,2024-11-13,proposal_date standardized to ISO
+697,proposal_date,22-Oct-23,2023-10-22,proposal_date standardized to ISO
+699,proposal_date,29-Apr-25,2025-04-29,proposal_date standardized to ISO
+702,proposal_date,01/10/2025,2025-10-01,proposal_date standardized to ISO
+703,proposal_date,27-Jun-25,2025-06-27,proposal_date standardized to ISO
+708,proposal_date,09-Feb-25,2025-02-09,proposal_date standardized to ISO
+709,proposal_date,12/12/2024,2024-12-12,proposal_date standardized to ISO
+710,proposal_date,11/03/2025,2025-03-11,proposal_date standardized to ISO
+711,proposal_date,09-Apr-25,2025-04-09,proposal_date standardized to ISO
+712,proposal_date,21-May-24,2024-05-21,proposal_date standardized to ISO
+713,proposal_date,06-Nov-24,2024-11-06,proposal_date standardized to ISO
+714,proposal_date,02/10/2024,2024-10-02,proposal_date standardized to ISO
+715,proposal_date,21-Jan-25,2025-01-21,proposal_date standardized to ISO
+716,proposal_date,19/01/2025,2025-01-19,proposal_date standardized to ISO
+719,proposal_date,04/06/2025,2025-06-04,proposal_date standardized to ISO
+720,proposal_date,26/09/2024,2024-09-26,proposal_date standardized to ISO
+723,proposal_date,23/05/2024,2024-05-23,proposal_date standardized to ISO
+724,proposal_date,29/02/2024,2024-02-29,proposal_date standardized to ISO
+725,proposal_date,20/10/2024,2024-10-20,proposal_date standardized to ISO
+729,proposal_date,25/06/2025,2025-06-25,proposal_date standardized to ISO
+730,proposal_date,19/01/2024,2024-01-19,proposal_date standardized to ISO
+732,proposal_date,01/09/2024,2024-09-01,proposal_date standardized to ISO
+737,proposal_date,22/05/2025,2025-05-22,proposal_date standardized to ISO
+739,proposal_date,05-Jun-24,2024-06-05,proposal_date standardized to ISO
+740,proposal_date,13-Feb-24,2024-02-13,proposal_date standardized to ISO
+741,proposal_date,11-Feb-24,2024-02-11,proposal_date standardized to ISO
+744,proposal_date,03-Oct-24,2024-10-03,proposal_date standardized to ISO
+746,proposal_date,12/06/2024,2024-06-12,proposal_date standardized to ISO
+747,proposal_date,07/05/2025,2025-05-07,proposal_date standardized to ISO
+748,proposal_date,18/08/2024,2024-08-18,proposal_date standardized to ISO
+750,proposal_date,28-Jun-24,2024-06-28,proposal_date standardized to ISO
+751,proposal_date,02/10/2023,2023-10-02,proposal_date standardized to ISO
+753,proposal_date,07-Oct-24,2024-10-07,proposal_date standardized to ISO
+756,proposal_date,01-Mar-24,2024-03-01,proposal_date standardized to ISO
+758,proposal_date,22/02/2025,2025-02-22,proposal_date standardized to ISO
+761,proposal_date,12-Sep-25,2025-09-12,proposal_date standardized to ISO
+762,proposal_date,22-Oct-23,2023-10-22,proposal_date standardized to ISO
+763,proposal_date,04-Sep-24,2024-09-04,proposal_date standardized to ISO
+764,proposal_date,25/09/2025,2025-09-25,proposal_date standardized to ISO
+765,proposal_date,17/05/2025,2025-05-17,proposal_date standardized to ISO
+766,proposal_date,17-May-24,2024-05-17,proposal_date standardized to ISO
+768,proposal_date,22-Dec-24,2024-12-22,proposal_date standardized to ISO
+776,proposal_date,13/07/2024,2024-07-13,proposal_date standardized to ISO
+777,proposal_date,27/05/2024,2024-05-27,proposal_date standardized to ISO
+778,proposal_date,25/02/2024,2024-02-25,proposal_date standardized to ISO
+779,proposal_date,20-Feb-24,2024-02-20,proposal_date standardized to ISO
+784,proposal_date,18/10/2024,2024-10-18,proposal_date standardized to ISO
+786,proposal_date,25/09/2024,2024-09-25,proposal_date standardized to ISO
+793,proposal_date,04-Jun-25,2025-06-04,proposal_date standardized to ISO
+794,proposal_date,15-Oct-24,2024-10-15,proposal_date standardized to ISO
+795,proposal_date,21-Sep-24,2024-09-21,proposal_date standardized to ISO
+796,proposal_date,11-Oct-24,2024-10-11,proposal_date standardized to ISO
+800,proposal_date,04-Aug-24,2024-08-04,proposal_date standardized to ISO
+803,proposal_date,04/05/2025,2025-05-04,proposal_date standardized to ISO
+804,proposal_date,12/10/2025,2025-10-12,proposal_date standardized to ISO
+805,proposal_date,05/08/2025,2025-08-05,proposal_date standardized to ISO
+806,proposal_date,20/04/2025,2025-04-20,proposal_date standardized to ISO
+809,proposal_date,15/08/2025,2025-08-15,proposal_date standardized to ISO
+811,proposal_date,07-Sep-25,2025-09-07,proposal_date standardized to ISO
+812,proposal_date,09/12/2023,2023-12-09,proposal_date standardized to ISO
+819,proposal_date,07-Nov-23,2023-11-07,proposal_date standardized to ISO
+821,proposal_date,03/07/2024,2024-07-03,proposal_date standardized to ISO
+823,proposal_date,22/07/2025,2025-07-22,proposal_date standardized to ISO
+824,proposal_date,17/11/2023,2023-11-17,proposal_date standardized to ISO
+825,proposal_date,26/07/2025,2025-07-26,proposal_date standardized to ISO
+826,proposal_date,17-Nov-24,2024-11-17,proposal_date standardized to ISO
+829,proposal_date,07/06/2025,2025-06-07,proposal_date standardized to ISO
+830,proposal_date,02/03/2025,2025-03-02,proposal_date standardized to ISO
+832,proposal_date,04-Sep-25,2025-09-04,proposal_date standardized to ISO
+833,proposal_date,11/06/2024,2024-06-11,proposal_date standardized to ISO
+834,proposal_date,02/03/2025,2025-03-02,proposal_date standardized to ISO
+835,proposal_date,14-Mar-24,2024-03-14,proposal_date standardized to ISO
+841,proposal_date,12/09/2025,2025-09-12,proposal_date standardized to ISO
+844,proposal_date,22-Nov-23,2023-11-22,proposal_date standardized to ISO
+845,proposal_date,05/06/2025,2025-06-05,proposal_date standardized to ISO
+846,proposal_date,14-Dec-24,2024-12-14,proposal_date standardized to ISO
+847,proposal_date,06-Mar-24,2024-03-06,proposal_date standardized to ISO
+848,proposal_date,23/04/2024,2024-04-23,proposal_date standardized to ISO
+850,proposal_date,23-Feb-24,2024-02-23,proposal_date standardized to ISO
+851,proposal_date,23-Mar-25,2025-03-23,proposal_date standardized to ISO
+853,proposal_date,04/06/2025,2025-06-04,proposal_date standardized to ISO
+854,proposal_date,22-Feb-24,2024-02-22,proposal_date standardized to ISO
+856,proposal_date,11/08/2025,2025-08-11,proposal_date standardized to ISO
+858,proposal_date,07/05/2024,2024-05-07,proposal_date standardized to ISO
+859,proposal_date,11-Aug-25,2025-08-11,proposal_date standardized to ISO
+861,proposal_date,12-Dec-24,2024-12-12,proposal_date standardized to ISO
+862,proposal_date,15/02/2025,2025-02-15,proposal_date standardized to ISO
+863,proposal_date,23/05/2024,2024-05-23,proposal_date standardized to ISO
+864,proposal_date,02/03/2025,2025-03-02,proposal_date standardized to ISO
+866,proposal_date,27/05/2025,2025-05-27,proposal_date standardized to ISO
+869,proposal_date,20/03/2024,2024-03-20,proposal_date standardized to ISO
+871,proposal_date,26/08/2025,2025-08-26,proposal_date standardized to ISO
+873,proposal_date,24-Apr-24,2024-04-24,proposal_date standardized to ISO
+874,proposal_date,08/02/2025,2025-02-08,proposal_date standardized to ISO
+875,proposal_date,18/05/2025,2025-05-18,proposal_date standardized to ISO
+877,proposal_date,18/11/2023,2023-11-18,proposal_date standardized to ISO
+879,proposal_date,28/09/2023,2023-09-28,proposal_date standardized to ISO
+881,proposal_date,05/01/2025,2025-01-05,proposal_date standardized to ISO
+886,proposal_date,05/05/2025,2025-05-05,proposal_date standardized to ISO
+887,proposal_date,12/02/2024,2024-02-12,proposal_date standardized to ISO
+890,proposal_date,03/08/2024,2024-08-03,proposal_date standardized to ISO
+892,proposal_date,18/04/2024,2024-04-18,proposal_date standardized to ISO
+893,proposal_date,20/03/2024,2024-03-20,proposal_date standardized to ISO
+896,proposal_date,06-Aug-25,2025-08-06,proposal_date standardized to ISO
+897,proposal_date,13-May-25,2025-05-13,proposal_date standardized to ISO
+901,proposal_date,11/08/2024,2024-08-11,proposal_date standardized to ISO
+904,proposal_date,14-Sep-23,2023-09-14,proposal_date standardized to ISO
+905,proposal_date,25-Aug-25,2025-08-25,proposal_date standardized to ISO
+907,proposal_date,21/08/2024,2024-08-21,proposal_date standardized to ISO
+909,proposal_date,22-Dec-23,2023-12-22,proposal_date standardized to ISO
+914,proposal_date,27/12/2023,2023-12-27,proposal_date standardized to ISO
+916,proposal_date,24-Jan-24,2024-01-24,proposal_date standardized to ISO
+917,proposal_date,19/09/2025,2025-09-19,proposal_date standardized to ISO
+918,proposal_date,22-Apr-24,2024-04-22,proposal_date standardized to ISO
+919,proposal_date,16-Jul-25,2025-07-16,proposal_date standardized to ISO
+921,proposal_date,02/02/2024,2024-02-02,proposal_date standardized to ISO
+926,proposal_date,25/07/2025,2025-07-25,proposal_date standardized to ISO
+927,proposal_date,06-Sep-23,2023-09-06,proposal_date standardized to ISO
+929,proposal_date,13/04/2024,2024-04-13,proposal_date standardized to ISO
+930,proposal_date,28/06/2025,2025-06-28,proposal_date standardized to ISO
+937,proposal_date,02-Jan-24,2024-01-02,proposal_date standardized to ISO
+938,proposal_date,23/09/2025,2025-09-23,proposal_date standardized to ISO
+940,proposal_date,28/11/2023,2023-11-28,proposal_date standardized to ISO
+941,proposal_date,21-Dec-23,2023-12-21,proposal_date standardized to ISO
+944,proposal_date,31/10/2023,2023-10-31,proposal_date standardized to ISO
+945,proposal_date,25/09/2024,2024-09-25,proposal_date standardized to ISO
+946,proposal_date,23-Jul-24,2024-07-23,proposal_date standardized to ISO
+947,proposal_date,20/01/2024,2024-01-20,proposal_date standardized to ISO
+948,proposal_date,06/04/2024,2024-04-06,proposal_date standardized to ISO
+949,proposal_date,11/01/2024,2024-01-11,proposal_date standardized to ISO
+954,proposal_date,13-Aug-25,2025-08-13,proposal_date standardized to ISO
+955,proposal_date,30/04/2025,2025-04-30,proposal_date standardized to ISO
+956,proposal_date,11/06/2024,2024-06-11,proposal_date standardized to ISO
+957,proposal_date,05/04/2025,2025-04-05,proposal_date standardized to ISO
+958,proposal_date,12/02/2024,2024-02-12,proposal_date standardized to ISO
+959,proposal_date,12/10/2025,2025-10-12,proposal_date standardized to ISO
+961,proposal_date,31-Jan-25,2025-01-31,proposal_date standardized to ISO
+963,proposal_date,19-Aug-25,2025-08-19,proposal_date standardized to ISO
+964,proposal_date,16/08/2024,2024-08-16,proposal_date standardized to ISO
+965,proposal_date,04/08/2025,2025-08-04,proposal_date standardized to ISO
+968,proposal_date,10/11/2024,2024-11-10,proposal_date standardized to ISO
+970,proposal_date,09/09/2023,2023-09-09,proposal_date standardized to ISO
+972,proposal_date,22/05/2024,2024-05-22,proposal_date standardized to ISO
+973,proposal_date,09/09/2024,2024-09-09,proposal_date standardized to ISO
+974,proposal_date,11-Feb-24,2024-02-11,proposal_date standardized to ISO
+977,proposal_date,07-Dec-24,2024-12-07,proposal_date standardized to ISO
+978,proposal_date,18-Oct-25,2025-10-18,proposal_date standardized to ISO
+979,proposal_date,25/11/2023,2023-11-25,proposal_date standardized to ISO
+982,proposal_date,08-Sep-23,2023-09-08,proposal_date standardized to ISO
+987,proposal_date,28-Jan-25,2025-01-28,proposal_date standardized to ISO
+988,proposal_date,11/03/2025,2025-03-11,proposal_date standardized to ISO
+989,proposal_date,04/02/2024,2024-02-04,proposal_date standardized to ISO
+990,proposal_date,14-Jul-24,2024-07-14,proposal_date standardized to ISO
+991,proposal_date,13/01/2024,2024-01-13,proposal_date standardized to ISO
+992,proposal_date,25-Mar-24,2024-03-25,proposal_date standardized to ISO
+996,proposal_date,21-Jun-24,2024-06-21,proposal_date standardized to ISO
+997,proposal_date,06/03/2025,2025-03-06,proposal_date standardized to ISO
+998,proposal_date,29-Aug-24,2024-08-29,proposal_date standardized to ISO
+999,proposal_date,21-Feb-25,2025-02-21,proposal_date standardized to ISO
+1002,proposal_date,25-Nov-23,2023-11-25,proposal_date standardized to ISO
+1004,proposal_date,22-Apr-24,2024-04-22,proposal_date standardized to ISO
+1009,proposal_date,03-Jun-25,2025-06-03,proposal_date standardized to ISO
+1010,proposal_date,21-Jul-24,2024-07-21,proposal_date standardized to ISO
+1011,proposal_date,10/12/2024,2024-12-10,proposal_date standardized to ISO
+1012,proposal_date,19/02/2024,2024-02-19,proposal_date standardized to ISO
+1019,proposal_date,24/07/2024,2024-07-24,proposal_date standardized to ISO
+1020,proposal_date,06-Jun-25,2025-06-06,proposal_date standardized to ISO
+1021,proposal_date,12-Oct-24,2024-10-12,proposal_date standardized to ISO
+1022,proposal_date,08/02/2025,2025-02-08,proposal_date standardized to ISO
+1024,proposal_date,24-Oct-23,2023-10-24,proposal_date standardized to ISO
+1025,proposal_date,22-Sep-24,2024-09-22,proposal_date standardized to ISO
+1027,proposal_date,29/01/2024,2024-01-29,proposal_date standardized to ISO
+1028,proposal_date,16-Sep-24,2024-09-16,proposal_date standardized to ISO
+1029,proposal_date,11-Aug-25,2025-08-11,proposal_date standardized to ISO
+1034,proposal_date,02-Oct-23,2023-10-02,proposal_date standardized to ISO
+1036,proposal_date,03/09/2023,2023-09-03,proposal_date standardized to ISO
+1038,proposal_date,22-May-25,2025-05-22,proposal_date standardized to ISO
+1041,proposal_date,16/04/2025,2025-04-16,proposal_date standardized to ISO
+1046,proposal_date,10/01/2024,2024-01-10,proposal_date standardized to ISO
+1047,proposal_date,18/07/2025,2025-07-18,proposal_date standardized to ISO
+1048,proposal_date,05/08/2024,2024-08-05,proposal_date standardized to ISO
+1050,proposal_date,26/06/2025,2025-06-26,proposal_date standardized to ISO
+1052,proposal_date,09-Aug-25,2025-08-09,proposal_date standardized to ISO
+1053,proposal_date,17/06/2024,2024-06-17,proposal_date standardized to ISO
+1054,proposal_date,19/02/2025,2025-02-19,proposal_date standardized to ISO
+1055,proposal_date,11/10/2025,2025-10-11,proposal_date standardized to ISO
+1058,proposal_date,30-Apr-24,2024-04-30,proposal_date standardized to ISO
+1059,proposal_date,20/06/2024,2024-06-20,proposal_date standardized to ISO
+1066,proposal_date,28-Sep-24,2024-09-28,proposal_date standardized to ISO
+1069,proposal_date,28-Mar-25,2025-03-28,proposal_date standardized to ISO
+1071,proposal_date,29-Nov-23,2023-11-29,proposal_date standardized to ISO
+1073,proposal_date,13/08/2024,2024-08-13,proposal_date standardized to ISO
+1074,proposal_date,26/07/2024,2024-07-26,proposal_date standardized to ISO
+1076,proposal_date,29-Feb-24,2024-02-29,proposal_date standardized to ISO
+1079,proposal_date,15-Oct-24,2024-10-15,proposal_date standardized to ISO
+1080,proposal_date,08/06/2024,2024-06-08,proposal_date standardized to ISO
+1081,proposal_date,29-Sep-24,2024-09-29,proposal_date standardized to ISO
+1082,proposal_date,30/11/2024,2024-11-30,proposal_date standardized to ISO
+1083,proposal_date,13-Sep-25,2025-09-13,proposal_date standardized to ISO
+1084,proposal_date,05/06/2024,2024-06-05,proposal_date standardized to ISO
+1085,proposal_date,16/10/2023,2023-10-16,proposal_date standardized to ISO
+1086,proposal_date,23/01/2025,2025-01-23,proposal_date standardized to ISO
+1088,proposal_date,06/09/2025,2025-09-06,proposal_date standardized to ISO
+1089,proposal_date,13/09/2023,2023-09-13,proposal_date standardized to ISO
+1090,proposal_date,01/02/2025,2025-02-01,proposal_date standardized to ISO
+1091,proposal_date,16/12/2024,2024-12-16,proposal_date standardized to ISO
+1094,proposal_date,05/09/2023,2023-09-05,proposal_date standardized to ISO
+1096,proposal_date,16/07/2025,2025-07-16,proposal_date standardized to ISO
+1098,proposal_date,12/02/2025,2025-02-12,proposal_date standardized to ISO
+1100,proposal_date,21/06/2024,2024-06-21,proposal_date standardized to ISO
+1101,proposal_date,13-Jan-24,2024-01-13,proposal_date standardized to ISO
+1102,proposal_date,23/05/2025,2025-05-23,proposal_date standardized to ISO
+1103,proposal_date,16/01/2025,2025-01-16,proposal_date standardized to ISO
+1104,proposal_date,09/08/2024,2024-08-09,proposal_date standardized to ISO
+1105,proposal_date,02/06/2024,2024-06-02,proposal_date standardized to ISO
+1106,proposal_date,11/10/2025,2025-10-11,proposal_date standardized to ISO
+1107,proposal_date,23/11/2024,2024-11-23,proposal_date standardized to ISO
+1109,proposal_date,05/03/2024,2024-03-05,proposal_date standardized to ISO
+1110,proposal_date,12-Apr-25,2025-04-12,proposal_date standardized to ISO
+1112,proposal_date,28/01/2025,2025-01-28,proposal_date standardized to ISO
+1113,proposal_date,28/02/2024,2024-02-28,proposal_date standardized to ISO
+1114,proposal_date,16/10/2024,2024-10-16,proposal_date standardized to ISO
+1116,proposal_date,29-Jul-24,2024-07-29,proposal_date standardized to ISO
+1117,proposal_date,15/06/2025,2025-06-15,proposal_date standardized to ISO
+1118,proposal_date,24/02/2024,2024-02-24,proposal_date standardized to ISO
+1119,proposal_date,06-May-24,2024-05-06,proposal_date standardized to ISO
+1120,proposal_date,01/04/2025,2025-04-01,proposal_date standardized to ISO
+1123,proposal_date,11/11/2024,2024-11-11,proposal_date standardized to ISO
+1124,proposal_date,07/03/2025,2025-03-07,proposal_date standardized to ISO
+1126,proposal_date,10/01/2024,2024-01-10,proposal_date standardized to ISO
+1128,proposal_date,15/09/2024,2024-09-15,proposal_date standardized to ISO
+1129,proposal_date,24/06/2025,2025-06-24,proposal_date standardized to ISO
+1130,proposal_date,11/12/2023,2023-12-11,proposal_date standardized to ISO
+1131,proposal_date,25/11/2023,2023-11-25,proposal_date standardized to ISO
+1133,proposal_date,13-Mar-25,2025-03-13,proposal_date standardized to ISO
+1137,proposal_date,01/12/2024,2024-12-01,proposal_date standardized to ISO
+1138,proposal_date,29/06/2025,2025-06-29,proposal_date standardized to ISO
+1145,proposal_date,11-Jun-25,2025-06-11,proposal_date standardized to ISO
+1146,proposal_date,29/05/2024,2024-05-29,proposal_date standardized to ISO
+1149,proposal_date,01/03/2024,2024-03-01,proposal_date standardized to ISO
+1150,proposal_date,03/09/2023,2023-09-03,proposal_date standardized to ISO
+1151,proposal_date,29/12/2024,2024-12-29,proposal_date standardized to ISO
+1153,proposal_date,10/09/2023,2023-09-10,proposal_date standardized to ISO
+1155,proposal_date,09-Nov-23,2023-11-09,proposal_date standardized to ISO
+1156,proposal_date,09/04/2024,2024-04-09,proposal_date standardized to ISO
+1157,proposal_date,27-Mar-24,2024-03-27,proposal_date standardized to ISO
+1158,proposal_date,03/11/2024,2024-11-03,proposal_date standardized to ISO
+1160,proposal_date,19/05/2024,2024-05-19,proposal_date standardized to ISO
+1162,proposal_date,30/06/2025,2025-06-30,proposal_date standardized to ISO
+1164,proposal_date,05/10/2024,2024-10-05,proposal_date standardized to ISO
+1165,proposal_date,18/04/2024,2024-04-18,proposal_date standardized to ISO
+1169,proposal_date,18/03/2025,2025-03-18,proposal_date standardized to ISO
+1175,proposal_date,21/10/2023,2023-10-21,proposal_date standardized to ISO
+1176,proposal_date,29-May-25,2025-05-29,proposal_date standardized to ISO
+1177,proposal_date,29/08/2024,2024-08-29,proposal_date standardized to ISO
+1179,proposal_date,18-Mar-24,2024-03-18,proposal_date standardized to ISO
+1182,proposal_date,16-Oct-25,2025-10-16,proposal_date standardized to ISO
+1185,proposal_date,09-Oct-24,2024-10-09,proposal_date standardized to ISO
+1187,proposal_date,15-Apr-25,2025-04-15,proposal_date standardized to ISO
+1189,proposal_date,09/04/2024,2024-04-09,proposal_date standardized to ISO
+1190,proposal_date,24/11/2023,2023-11-24,proposal_date standardized to ISO
+1194,proposal_date,19-Nov-23,2023-11-19,proposal_date standardized to ISO
+1195,proposal_date,26-Oct-24,2024-10-26,proposal_date standardized to ISO
+1198,proposal_date,29/01/2025,2025-01-29,proposal_date standardized to ISO
+1200,proposal_date,02/06/2024,2024-06-02,proposal_date standardized to ISO
+1202,proposal_date,07-Oct-25,2025-10-07,proposal_date standardized to ISO
+1204,proposal_date,16-May-25,2025-05-16,proposal_date standardized to ISO
+1205,proposal_date,08/04/2025,2025-04-08,proposal_date standardized to ISO
+1206,proposal_date,22/03/2024,2024-03-22,proposal_date standardized to ISO
+1207,proposal_date,18-Nov-23,2023-11-18,proposal_date standardized to ISO
+1209,proposal_date,09-Jan-24,2024-01-09,proposal_date standardized to ISO
+1212,proposal_date,11-Sep-25,2025-09-11,proposal_date standardized to ISO
+1215,proposal_date,17-Apr-24,2024-04-17,proposal_date standardized to ISO
+1216,proposal_date,04/10/2024,2024-10-04,proposal_date standardized to ISO
+1217,proposal_date,02/06/2024,2024-06-02,proposal_date standardized to ISO
+1218,proposal_date,25/06/2024,2024-06-25,proposal_date standardized to ISO
+1219,proposal_date,27/07/2025,2025-07-27,proposal_date standardized to ISO
+1221,proposal_date,21/11/2024,2024-11-21,proposal_date standardized to ISO
+1222,proposal_date,07/07/2024,2024-07-07,proposal_date standardized to ISO
+1223,proposal_date,28-Sep-24,2024-09-28,proposal_date standardized to ISO
+1224,proposal_date,30/12/2024,2024-12-30,proposal_date standardized to ISO
+1226,proposal_date,29/10/2023,2023-10-29,proposal_date standardized to ISO
+1228,proposal_date,30/09/2023,2023-09-30,proposal_date standardized to ISO
+1229,proposal_date,13/09/2024,2024-09-13,proposal_date standardized to ISO
+1230,proposal_date,24-Jul-25,2025-07-24,proposal_date standardized to ISO
+1234,proposal_date,23/06/2024,2024-06-23,proposal_date standardized to ISO
+1235,proposal_date,08/01/2025,2025-01-08,proposal_date standardized to ISO
+1236,proposal_date,19-May-24,2024-05-19,proposal_date standardized to ISO
+1237,proposal_date,03-Jul-24,2024-07-03,proposal_date standardized to ISO
+1242,proposal_date,21-Feb-24,2024-02-21,proposal_date standardized to ISO
+1244,proposal_date,02-Feb-25,2025-02-02,proposal_date standardized to ISO
+1245,proposal_date,09/12/2024,2024-12-09,proposal_date standardized to ISO
+1248,proposal_date,14/11/2023,2023-11-14,proposal_date standardized to ISO
+1250,proposal_date,21-Oct-23,2023-10-21,proposal_date standardized to ISO
+1253,proposal_date,23/03/2024,2024-03-23,proposal_date standardized to ISO
+1254,proposal_date,29-Feb-24,2024-02-29,proposal_date standardized to ISO
+1257,proposal_date,18/05/2025,2025-05-18,proposal_date standardized to ISO
+1259,proposal_date,30/11/2023,2023-11-30,proposal_date standardized to ISO
+1262,proposal_date,09/12/2024,2024-12-09,proposal_date standardized to ISO
+1266,proposal_date,08-Jun-25,2025-06-08,proposal_date standardized to ISO
+1269,proposal_date,01/11/2023,2023-11-01,proposal_date standardized to ISO
+1270,proposal_date,11-Oct-24,2024-10-11,proposal_date standardized to ISO
+1273,proposal_date,24/04/2024,2024-04-24,proposal_date standardized to ISO
+1274,proposal_date,20/02/2024,2024-02-20,proposal_date standardized to ISO
+1276,proposal_date,01-Nov-23,2023-11-01,proposal_date standardized to ISO
+1277,proposal_date,05-Oct-25,2025-10-05,proposal_date standardized to ISO
+1278,proposal_date,15/11/2024,2024-11-15,proposal_date standardized to ISO
+1286,proposal_date,01-Jun-25,2025-06-01,proposal_date standardized to ISO
+1287,proposal_date,02/06/2024,2024-06-02,proposal_date standardized to ISO
+1290,proposal_date,20-Mar-24,2024-03-20,proposal_date standardized to ISO
+1293,proposal_date,01-Feb-24,2024-02-01,proposal_date standardized to ISO
+1295,proposal_date,26/10/2024,2024-10-26,proposal_date standardized to ISO
+1296,proposal_date,28/05/2025,2025-05-28,proposal_date standardized to ISO
+1297,proposal_date,28-Jun-24,2024-06-28,proposal_date standardized to ISO
+1302,proposal_date,05/01/2024,2024-01-05,proposal_date standardized to ISO
+1304,proposal_date,13/07/2024,2024-07-13,proposal_date standardized to ISO
+1308,proposal_date,13/10/2023,2023-10-13,proposal_date standardized to ISO
+1309,proposal_date,09/08/2025,2025-08-09,proposal_date standardized to ISO
+1312,proposal_date,07-Aug-24,2024-08-07,proposal_date standardized to ISO
+1314,proposal_date,14/05/2025,2025-05-14,proposal_date standardized to ISO
+1317,proposal_date,30-Oct-23,2023-10-30,proposal_date standardized to ISO
+1318,proposal_date,17/08/2024,2024-08-17,proposal_date standardized to ISO
+1319,proposal_date,12-Nov-23,2023-11-12,proposal_date standardized to ISO
+1321,proposal_date,24/11/2024,2024-11-24,proposal_date standardized to ISO
+1323,proposal_date,03/09/2023,2023-09-03,proposal_date standardized to ISO
+1325,proposal_date,21-May-25,2025-05-21,proposal_date standardized to ISO
+1327,proposal_date,09/09/2025,2025-09-09,proposal_date standardized to ISO
+1328,proposal_date,07/09/2024,2024-09-07,proposal_date standardized to ISO
+1329,proposal_date,30-Apr-24,2024-04-30,proposal_date standardized to ISO
+1330,proposal_date,21-Sep-25,2025-09-21,proposal_date standardized to ISO
+1331,proposal_date,26-Nov-23,2023-11-26,proposal_date standardized to ISO
+1334,proposal_date,30-Aug-25,2025-08-30,proposal_date standardized to ISO
+1335,proposal_date,04/01/2025,2025-01-04,proposal_date standardized to ISO
+1336,proposal_date,19/07/2025,2025-07-19,proposal_date standardized to ISO
+1337,proposal_date,26/03/2024,2024-03-26,proposal_date standardized to ISO
+1338,proposal_date,02/11/2024,2024-11-02,proposal_date standardized to ISO
+1344,proposal_date,03-Jul-25,2025-07-03,proposal_date standardized to ISO
+1346,proposal_date,02-Mar-24,2024-03-02,proposal_date standardized to ISO
+1347,proposal_date,30-Dec-23,2023-12-30,proposal_date standardized to ISO
+1348,proposal_date,26/12/2023,2023-12-26,proposal_date standardized to ISO
+1350,proposal_date,17/02/2025,2025-02-17,proposal_date standardized to ISO
+1351,proposal_date,17/07/2025,2025-07-17,proposal_date standardized to ISO
+1352,proposal_date,09-Sep-23,2023-09-09,proposal_date standardized to ISO
+1354,proposal_date,21-Jul-24,2024-07-21,proposal_date standardized to ISO
+1355,proposal_date,11/02/2024,2024-02-11,proposal_date standardized to ISO
+1357,proposal_date,14-May-25,2025-05-14,proposal_date standardized to ISO
+1358,proposal_date,04/01/2025,2025-01-04,proposal_date standardized to ISO
+1359,proposal_date,15/02/2025,2025-02-15,proposal_date standardized to ISO
+1362,proposal_date,08-Feb-25,2025-02-08,proposal_date standardized to ISO
+1363,proposal_date,12/06/2025,2025-06-12,proposal_date standardized to ISO
+1364,proposal_date,29/01/2024,2024-01-29,proposal_date standardized to ISO
+1365,proposal_date,15/08/2025,2025-08-15,proposal_date standardized to ISO
+1367,proposal_date,24/07/2025,2025-07-24,proposal_date standardized to ISO
+1371,proposal_date,07/04/2024,2024-04-07,proposal_date standardized to ISO
+1372,proposal_date,23-Mar-24,2024-03-23,proposal_date standardized to ISO
+1374,proposal_date,11/09/2023,2023-09-11,proposal_date standardized to ISO
+1375,proposal_date,24/02/2025,2025-02-24,proposal_date standardized to ISO
+1376,proposal_date,04/09/2023,2023-09-04,proposal_date standardized to ISO
+1379,proposal_date,08-Mar-24,2024-03-08,proposal_date standardized to ISO
+1383,proposal_date,13-Apr-25,2025-04-13,proposal_date standardized to ISO
+1385,proposal_date,17-Apr-24,2024-04-17,proposal_date standardized to ISO
+1386,proposal_date,07-Jun-25,2025-06-07,proposal_date standardized to ISO
+1387,proposal_date,18/10/2024,2024-10-18,proposal_date standardized to ISO
+1390,proposal_date,01/01/2024,2024-01-01,proposal_date standardized to ISO
+1391,proposal_date,31/12/2024,2024-12-31,proposal_date standardized to ISO
+1394,proposal_date,19-Dec-23,2023-12-19,proposal_date standardized to ISO
+1396,proposal_date,13-Jan-25,2025-01-13,proposal_date standardized to ISO
+1397,proposal_date,17-Sep-24,2024-09-17,proposal_date standardized to ISO
+1398,proposal_date,01/05/2025,2025-05-01,proposal_date standardized to ISO
+1399,proposal_date,26/07/2025,2025-07-26,proposal_date standardized to ISO
+1400,proposal_date,08/04/2024,2024-04-08,proposal_date standardized to ISO
+1405,proposal_date,09/08/2025,2025-08-09,proposal_date standardized to ISO
+1407,proposal_date,24-Jun-25,2025-06-24,proposal_date standardized to ISO
+1408,proposal_date,24/07/2025,2025-07-24,proposal_date standardized to ISO
+1411,proposal_date,18-Jul-24,2024-07-18,proposal_date standardized to ISO
+1412,proposal_date,21-Feb-25,2025-02-21,proposal_date standardized to ISO
+1413,proposal_date,01-Dec-23,2023-12-01,proposal_date standardized to ISO
+1414,proposal_date,14/02/2025,2025-02-14,proposal_date standardized to ISO
+1416,proposal_date,04/07/2025,2025-07-04,proposal_date standardized to ISO
+1418,proposal_date,24/04/2024,2024-04-24,proposal_date standardized to ISO
+1419,proposal_date,14-May-25,2025-05-14,proposal_date standardized to ISO
+1420,proposal_date,26/09/2023,2023-09-26,proposal_date standardized to ISO
+1421,proposal_date,06-Oct-23,2023-10-06,proposal_date standardized to ISO
+1422,proposal_date,18-Jul-25,2025-07-18,proposal_date standardized to ISO
+1423,proposal_date,27-Sep-24,2024-09-27,proposal_date standardized to ISO
+1425,proposal_date,11/09/2024,2024-09-11,proposal_date standardized to ISO
+1426,proposal_date,02/03/2024,2024-03-02,proposal_date standardized to ISO
+1427,proposal_date,28-Feb-24,2024-02-28,proposal_date standardized to ISO
+1429,proposal_date,24/11/2023,2023-11-24,proposal_date standardized to ISO
+1431,proposal_date,04/01/2024,2024-01-04,proposal_date standardized to ISO
+1432,proposal_date,03/01/2025,2025-01-03,proposal_date standardized to ISO
+1434,proposal_date,06/06/2024,2024-06-06,proposal_date standardized to ISO
+1435,proposal_date,14/06/2024,2024-06-14,proposal_date standardized to ISO
+1436,proposal_date,15-Feb-24,2024-02-15,proposal_date standardized to ISO
+1437,proposal_date,10/11/2024,2024-11-10,proposal_date standardized to ISO
+1438,proposal_date,20/07/2025,2025-07-20,proposal_date standardized to ISO
+1441,proposal_date,05-Feb-24,2024-02-05,proposal_date standardized to ISO
+1442,proposal_date,09-May-25,2025-05-09,proposal_date standardized to ISO
+1444,proposal_date,10-Apr-24,2024-04-10,proposal_date standardized to ISO
+1445,proposal_date,27/04/2024,2024-04-27,proposal_date standardized to ISO
+1446,proposal_date,19-Jun-24,2024-06-19,proposal_date standardized to ISO
+1447,proposal_date,22-Jun-24,2024-06-22,proposal_date standardized to ISO
+1448,proposal_date,19/10/2023,2023-10-19,proposal_date standardized to ISO
+1451,proposal_date,06-May-24,2024-05-06,proposal_date standardized to ISO
+1452,proposal_date,04-Feb-25,2025-02-04,proposal_date standardized to ISO
+1453,proposal_date,25-Sep-25,2025-09-25,proposal_date standardized to ISO
+1455,proposal_date,08/12/2024,2024-12-08,proposal_date standardized to ISO
+1458,proposal_date,09-Sep-24,2024-09-09,proposal_date standardized to ISO
+1463,proposal_date,08-May-24,2024-05-08,proposal_date standardized to ISO
+1466,proposal_date,01-May-25,2025-05-01,proposal_date standardized to ISO
+1467,proposal_date,14-Apr-25,2025-04-14,proposal_date standardized to ISO
+1470,proposal_date,27-Aug-25,2025-08-27,proposal_date standardized to ISO
+1471,proposal_date,20/11/2023,2023-11-20,proposal_date standardized to ISO
+1472,proposal_date,15/12/2023,2023-12-15,proposal_date standardized to ISO
+1473,proposal_date,22/04/2025,2025-04-22,proposal_date standardized to ISO
+1475,proposal_date,09/11/2023,2023-11-09,proposal_date standardized to ISO
+1477,proposal_date,22-Jan-24,2024-01-22,proposal_date standardized to ISO
+1478,proposal_date,11-Dec-24,2024-12-11,proposal_date standardized to ISO
+1482,proposal_date,31/12/2024,2024-12-31,proposal_date standardized to ISO
+1483,proposal_date,12/06/2025,2025-06-12,proposal_date standardized to ISO
+1488,proposal_date,28/12/2023,2023-12-28,proposal_date standardized to ISO
+1490,proposal_date,19-Nov-23,2023-11-19,proposal_date standardized to ISO
+1492,proposal_date,08-Dec-24,2024-12-08,proposal_date standardized to ISO
+1493,proposal_date,08-Feb-25,2025-02-08,proposal_date standardized to ISO
+1495,proposal_date,27-May-25,2025-05-27,proposal_date standardized to ISO
+1496,proposal_date,08-Oct-23,2023-10-08,proposal_date standardized to ISO
+1497,proposal_date,16-Feb-25,2025-02-16,proposal_date standardized to ISO
+1498,proposal_date,21-Aug-25,2025-08-21,proposal_date standardized to ISO
+1507,proposal_date,07/06/2025,2025-06-07,proposal_date standardized to ISO
+1511,proposal_date,21/06/2024,2024-06-21,proposal_date standardized to ISO
+1512,proposal_date,06/03/2024,2024-03-06,proposal_date standardized to ISO
+1514,proposal_date,26/06/2025,2025-06-26,proposal_date standardized to ISO
+1517,proposal_date,19/01/2025,2025-01-19,proposal_date standardized to ISO
+1520,proposal_date,10/07/2024,2024-07-10,proposal_date standardized to ISO
+1523,proposal_date,09/12/2023,2023-12-09,proposal_date standardized to ISO
+1527,proposal_date,28-Sep-25,2025-09-28,proposal_date standardized to ISO
+1528,proposal_date,25/07/2024,2024-07-25,proposal_date standardized to ISO
+1530,proposal_date,15/11/2024,2024-11-15,proposal_date standardized to ISO
+1533,proposal_date,15/07/2024,2024-07-15,proposal_date standardized to ISO
+1541,proposal_date,18-Dec-24,2024-12-18,proposal_date standardized to ISO
+1543,proposal_date,11-Dec-24,2024-12-11,proposal_date standardized to ISO
+1545,proposal_date,09-Dec-23,2023-12-09,proposal_date standardized to ISO
+1547,proposal_date,09-Sep-25,2025-09-09,proposal_date standardized to ISO
+1549,proposal_date,13/07/2024,2024-07-13,proposal_date standardized to ISO
+1550,proposal_date,23/03/2024,2024-03-23,proposal_date standardized to ISO
+1551,proposal_date,31-Oct-24,2024-10-31,proposal_date standardized to ISO
+1552,proposal_date,23-Nov-23,2023-11-23,proposal_date standardized to ISO
+1556,proposal_date,13-Sep-24,2024-09-13,proposal_date standardized to ISO
+1557,proposal_date,27/03/2024,2024-03-27,proposal_date standardized to ISO
+1558,proposal_date,28/11/2024,2024-11-28,proposal_date standardized to ISO
+1562,proposal_date,13/07/2025,2025-07-13,proposal_date standardized to ISO
+1563,proposal_date,13/09/2025,2025-09-13,proposal_date standardized to ISO
+1567,proposal_date,25-Feb-25,2025-02-25,proposal_date standardized to ISO
+1570,proposal_date,22-Jun-24,2024-06-22,proposal_date standardized to ISO
+1571,proposal_date,28/11/2023,2023-11-28,proposal_date standardized to ISO
+1572,proposal_date,30/01/2025,2025-01-30,proposal_date standardized to ISO
+1576,proposal_date,01/09/2023,2023-09-01,proposal_date standardized to ISO
+1578,proposal_date,17-Oct-25,2025-10-17,proposal_date standardized to ISO
+1579,proposal_date,17-Dec-23,2023-12-17,proposal_date standardized to ISO
+1581,proposal_date,16/09/2024,2024-09-16,proposal_date standardized to ISO
+1582,proposal_date,02-Jan-25,2025-01-02,proposal_date standardized to ISO
+1585,proposal_date,21/10/2024,2024-10-21,proposal_date standardized to ISO
+1587,proposal_date,04/03/2025,2025-03-04,proposal_date standardized to ISO
+1588,proposal_date,03-Jan-24,2024-01-03,proposal_date standardized to ISO
+1590,proposal_date,09/05/2024,2024-05-09,proposal_date standardized to ISO
+1591,proposal_date,23/09/2023,2023-09-23,proposal_date standardized to ISO
+1592,proposal_date,11/04/2025,2025-04-11,proposal_date standardized to ISO
+1593,proposal_date,16/09/2023,2023-09-16,proposal_date standardized to ISO
+1594,proposal_date,14/09/2025,2025-09-14,proposal_date standardized to ISO
+1597,proposal_date,25/10/2024,2024-10-25,proposal_date standardized to ISO
+1598,proposal_date,18-Oct-24,2024-10-18,proposal_date standardized to ISO
+1599,proposal_date,14/03/2025,2025-03-14,proposal_date standardized to ISO
+1601,proposal_date,29-Sep-25,2025-09-29,proposal_date standardized to ISO
+1605,proposal_date,18/01/2024,2024-01-18,proposal_date standardized to ISO
+1606,proposal_date,08-Oct-23,2023-10-08,proposal_date standardized to ISO
+1607,proposal_date,01/07/2024,2024-07-01,proposal_date standardized to ISO
+1608,proposal_date,15-Jun-25,2025-06-15,proposal_date standardized to ISO
+1610,proposal_date,09/07/2024,2024-07-09,proposal_date standardized to ISO
+1613,proposal_date,18-Sep-25,2025-09-18,proposal_date standardized to ISO
+1614,proposal_date,29-May-25,2025-05-29,proposal_date standardized to ISO
+1615,proposal_date,17/02/2024,2024-02-17,proposal_date standardized to ISO
+1616,proposal_date,07-Sep-23,2023-09-07,proposal_date standardized to ISO
+1618,proposal_date,10-Aug-25,2025-08-10,proposal_date standardized to ISO
+1620,proposal_date,02/02/2025,2025-02-02,proposal_date standardized to ISO
+1621,proposal_date,25/10/2024,2024-10-25,proposal_date standardized to ISO
+1624,proposal_date,23/09/2025,2025-09-23,proposal_date standardized to ISO
+1625,proposal_date,22/10/2023,2023-10-22,proposal_date standardized to ISO
+1626,proposal_date,05-Apr-24,2024-04-05,proposal_date standardized to ISO
+1627,proposal_date,01-Oct-23,2023-10-01,proposal_date standardized to ISO
+1628,proposal_date,02/10/2024,2024-10-02,proposal_date standardized to ISO
+1631,proposal_date,05/05/2024,2024-05-05,proposal_date standardized to ISO
+1633,proposal_date,10/10/2025,2025-10-10,proposal_date standardized to ISO
+1634,proposal_date,02-Aug-24,2024-08-02,proposal_date standardized to ISO
+1635,proposal_date,21-Apr-24,2024-04-21,proposal_date standardized to ISO
+1636,proposal_date,20-Jan-25,2025-01-20,proposal_date standardized to ISO
+1637,proposal_date,29/11/2024,2024-11-29,proposal_date standardized to ISO
+1638,proposal_date,07/09/2023,2023-09-07,proposal_date standardized to ISO
+1640,proposal_date,31/03/2024,2024-03-31,proposal_date standardized to ISO
+1642,proposal_date,15-Jun-25,2025-06-15,proposal_date standardized to ISO
+1643,proposal_date,05/05/2025,2025-05-05,proposal_date standardized to ISO
+1644,proposal_date,14/03/2024,2024-03-14,proposal_date standardized to ISO
+1645,proposal_date,24-Jul-24,2024-07-24,proposal_date standardized to ISO
+1646,proposal_date,11-Sep-23,2023-09-11,proposal_date standardized to ISO
+1649,proposal_date,28/01/2025,2025-01-28,proposal_date standardized to ISO
+1650,proposal_date,22/10/2024,2024-10-22,proposal_date standardized to ISO
+1651,proposal_date,13/12/2023,2023-12-13,proposal_date standardized to ISO
+1652,proposal_date,13/04/2024,2024-04-13,proposal_date standardized to ISO
+1654,proposal_date,21/01/2025,2025-01-21,proposal_date standardized to ISO
+1659,proposal_date,03-Apr-24,2024-04-03,proposal_date standardized to ISO
+1660,proposal_date,11/07/2025,2025-07-11,proposal_date standardized to ISO
+1662,proposal_date,09/10/2024,2024-10-09,proposal_date standardized to ISO
+1665,proposal_date,08-Aug-25,2025-08-08,proposal_date standardized to ISO
+1667,proposal_date,31/01/2025,2025-01-31,proposal_date standardized to ISO
+1669,proposal_date,30-Jul-25,2025-07-30,proposal_date standardized to ISO
+1670,proposal_date,12/05/2024,2024-05-12,proposal_date standardized to ISO
+1671,proposal_date,07-Aug-24,2024-08-07,proposal_date standardized to ISO
+1675,proposal_date,19/07/2025,2025-07-19,proposal_date standardized to ISO
+1676,proposal_date,19/01/2024,2024-01-19,proposal_date standardized to ISO
+1678,proposal_date,19/03/2024,2024-03-19,proposal_date standardized to ISO
+1679,proposal_date,03/10/2024,2024-10-03,proposal_date standardized to ISO
+1680,proposal_date,17/10/2024,2024-10-17,proposal_date standardized to ISO
+1682,proposal_date,26/08/2024,2024-08-26,proposal_date standardized to ISO
+1683,proposal_date,18-Aug-25,2025-08-18,proposal_date standardized to ISO
+1684,proposal_date,25/05/2025,2025-05-25,proposal_date standardized to ISO
+1686,proposal_date,10/02/2024,2024-02-10,proposal_date standardized to ISO
+1687,proposal_date,31/10/2023,2023-10-31,proposal_date standardized to ISO
+1689,proposal_date,27/08/2025,2025-08-27,proposal_date standardized to ISO
+1690,proposal_date,23-May-24,2024-05-23,proposal_date standardized to ISO
+1691,proposal_date,08-Oct-23,2023-10-08,proposal_date standardized to ISO
+1698,proposal_date,20-Jul-24,2024-07-20,proposal_date standardized to ISO
+1699,proposal_date,21/10/2023,2023-10-21,proposal_date standardized to ISO
+1702,proposal_date,26/08/2024,2024-08-26,proposal_date standardized to ISO
+1705,proposal_date,28/01/2024,2024-01-28,proposal_date standardized to ISO
+1706,proposal_date,20/12/2024,2024-12-20,proposal_date standardized to ISO
+1707,proposal_date,04/12/2023,2023-12-04,proposal_date standardized to ISO
+1708,proposal_date,07-Sep-23,2023-09-07,proposal_date standardized to ISO
+1710,proposal_date,28/02/2024,2024-02-28,proposal_date standardized to ISO
+1712,proposal_date,26-Apr-25,2025-04-26,proposal_date standardized to ISO
+1714,proposal_date,17-Feb-24,2024-02-17,proposal_date standardized to ISO
+1715,proposal_date,02-Oct-24,2024-10-02,proposal_date standardized to ISO
+1717,proposal_date,04-Dec-24,2024-12-04,proposal_date standardized to ISO
+1723,proposal_date,17/09/2023,2023-09-17,proposal_date standardized to ISO
+1724,proposal_date,04/04/2024,2024-04-04,proposal_date standardized to ISO
+1729,proposal_date,04-Oct-24,2024-10-04,proposal_date standardized to ISO
+1731,proposal_date,14-Sep-24,2024-09-14,proposal_date standardized to ISO
+1732,proposal_date,28-Dec-23,2023-12-28,proposal_date standardized to ISO
+1736,proposal_date,20-Jul-25,2025-07-20,proposal_date standardized to ISO
+1738,proposal_date,04/07/2024,2024-07-04,proposal_date standardized to ISO
+1739,proposal_date,11/01/2025,2025-01-11,proposal_date standardized to ISO
+1740,proposal_date,02/09/2023,2023-09-02,proposal_date standardized to ISO
+1741,proposal_date,17-Sep-25,2025-09-17,proposal_date standardized to ISO
+1743,proposal_date,11-Sep-25,2025-09-11,proposal_date standardized to ISO
+1745,proposal_date,25/10/2023,2023-10-25,proposal_date standardized to ISO
+1747,proposal_date,17-Dec-23,2023-12-17,proposal_date standardized to ISO
+1750,proposal_date,07/09/2025,2025-09-07,proposal_date standardized to ISO
+1751,proposal_date,15/10/2024,2024-10-15,proposal_date standardized to ISO
+1753,proposal_date,07-Mar-24,2024-03-07,proposal_date standardized to ISO
+1754,proposal_date,05-Mar-25,2025-03-05,proposal_date standardized to ISO
+1755,proposal_date,17/01/2025,2025-01-17,proposal_date standardized to ISO
+1756,proposal_date,24-Feb-25,2025-02-24,proposal_date standardized to ISO
+1758,proposal_date,28-Nov-24,2024-11-28,proposal_date standardized to ISO
+1759,proposal_date,08/03/2024,2024-03-08,proposal_date standardized to ISO
+1760,proposal_date,15/01/2025,2025-01-15,proposal_date standardized to ISO
+1761,proposal_date,19-Apr-25,2025-04-19,proposal_date standardized to ISO
+1764,proposal_date,27/11/2024,2024-11-27,proposal_date standardized to ISO
+1765,proposal_date,01/08/2025,2025-08-01,proposal_date standardized to ISO
+1770,proposal_date,22-Apr-25,2025-04-22,proposal_date standardized to ISO
+1771,proposal_date,14-Jun-24,2024-06-14,proposal_date standardized to ISO
+1772,proposal_date,04/04/2025,2025-04-04,proposal_date standardized to ISO
+1774,proposal_date,03-Jun-24,2024-06-03,proposal_date standardized to ISO
+1775,proposal_date,03/04/2024,2024-04-03,proposal_date standardized to ISO
+1777,proposal_date,19-Dec-24,2024-12-19,proposal_date standardized to ISO
+1779,proposal_date,18/02/2025,2025-02-18,proposal_date standardized to ISO
+1783,proposal_date,18-Apr-24,2024-04-18,proposal_date standardized to ISO
+1791,proposal_date,31-Aug-24,2024-08-31,proposal_date standardized to ISO
+1792,proposal_date,03/05/2024,2024-05-03,proposal_date standardized to ISO
+1793,proposal_date,07-Sep-25,2025-09-07,proposal_date standardized to ISO
+1794,proposal_date,26/01/2024,2024-01-26,proposal_date standardized to ISO
+1795,proposal_date,07-Mar-25,2025-03-07,proposal_date standardized to ISO
+1796,proposal_date,08/04/2025,2025-04-08,proposal_date standardized to ISO
+1797,proposal_date,25-Dec-24,2024-12-25,proposal_date standardized to ISO
+1798,proposal_date,19-Dec-24,2024-12-19,proposal_date standardized to ISO
+110,group_size,15.0,,"group_size out of range [1,5] — set to missing (error, not outlier)"
+769,group_size,12.0,,"group_size out of range [1,5] — set to missing (error, not outlier)"
+789,group_size,0.0,,"group_size out of range [1,5] — set to missing (error, not outlier)"
+1354,group_size,0.0,,"group_size out of range [1,5] — set to missing (error, not outlier)"
+1592,group_size,9.0,,"group_size out of range [1,5] — set to missing (error, not outlier)"
+1662,group_size,-3.0,,"group_size out of range [1,5] — set to missing (error, not outlier)"
+135,team_avg_cgpa,9.1,,"team_avg_cgpa out of range [0.0,4.0] — set to missing (error, not outlier)"
+639,team_avg_cgpa,5.7,,"team_avg_cgpa out of range [0.0,4.0] — set to missing (error, not outlier)"
+899,team_avg_cgpa,-1.0,,"team_avg_cgpa out of range [0.0,4.0] — set to missing (error, not outlier)"
+1485,team_avg_cgpa,6.2,,"team_avg_cgpa out of range [0.0,4.0] — set to missing (error, not outlier)"
+1669,team_avg_cgpa,-0.5,,"team_avg_cgpa out of range [0.0,4.0] — set to missing (error, not outlier)"
+1706,team_avg_cgpa,4.6,,"team_avg_cgpa out of range [0.0,4.0] — set to missing (error, not outlier)"
+224,team_min_cgpa,-1.5,,"team_min_cgpa out of range [0.0,4.0] — set to missing (error, not outlier)"
+249,team_min_cgpa,-2.0,,"team_min_cgpa out of range [0.0,4.0] — set to missing (error, not outlier)"
+823,team_min_cgpa,6.5,,"team_min_cgpa out of range [0.0,4.0] — set to missing (error, not outlier)"
+1790,team_min_cgpa,5.0,,"team_min_cgpa out of range [0.0,4.0] — set to missing (error, not outlier)"
+186,supervisor_experience_years,-4.0,,"supervisor_experience_years out of range [0,45] — set to missing (error, not outlier)"
+799,supervisor_experience_years,85.0,,"supervisor_experience_years out of range [0,45] — set to missing (error, not outlier)"
+1081,supervisor_experience_years,120.0,,"supervisor_experience_years out of range [0,45] — set to missing (error, not outlier)"
+1227,supervisor_experience_years,70.0,,"supervisor_experience_years out of range [0,45] — set to missing (error, not outlier)"
+563,weeks_to_proposal_approval,60.0,,"weeks_to_proposal_approval out of range [0,30] — set to missing (error, not outlier)"
+945,weeks_to_proposal_approval,90.0,,"weeks_to_proposal_approval out of range [0,30] — set to missing (error, not outlier)"
+1067,weeks_to_proposal_approval,-5.0,,"weeks_to_proposal_approval out of range [0,30] — set to missing (error, not outlier)"
+1136,weeks_to_proposal_approval,-2.0,,"weeks_to_proposal_approval out of range [0,30] — set to missing (error, not outlier)"
+129,supervisor_meetings_8wk,-6.0,,"supervisor_meetings_8wk out of range [0,30] — set to missing (error, not outlier)"
+694,supervisor_meetings_8wk,200.0,,"supervisor_meetings_8wk out of range [0,30] — set to missing (error, not outlier)"
+1105,supervisor_meetings_8wk,-1.0,,"supervisor_meetings_8wk out of range [0,30] — set to missing (error, not outlier)"
+1729,supervisor_meetings_8wk,90.0,,"supervisor_meetings_8wk out of range [0,30] — set to missing (error, not outlier)"
+99,github_commits_8wk,-10.0,,"github_commits_8wk out of range [0,1000] — set to missing (error, not outlier)"
+734,github_commits_8wk,-50.0,,"github_commits_8wk out of range [0,1000] — set to missing (error, not outlier)"
+973,github_commits_8wk,5000.0,,"github_commits_8wk out of range [0,1000] — set to missing (error, not outlier)"
+1491,github_commits_8wk,99999.0,,"github_commits_8wk out of range [0,1000] — set to missing (error, not outlier)"
+1586,github_commits_8wk,-1.0,,"github_commits_8wk out of range [0,1000] — set to missing (error, not outlier)"
+300,mid_eval_score,250.0,,"mid_eval_score out of range [0,100] — set to missing (error, not outlier)"
+671,mid_eval_score,-5.0,,"mid_eval_score out of range [0,100] — set to missing (error, not outlier)"
+1361,mid_eval_score,-20.0,,"mid_eval_score out of range [0,100] — set to missing (error, not outlier)"
+1731,mid_eval_score,120.0,,"mid_eval_score out of range [0,100] — set to missing (error, not outlier)"
+4,team_min_cgpa,3.13,2.59,CGPA error: team_min_cgpa > team_avg_cgpa — values swapped
+4,team_avg_cgpa,2.59,3.13,CGPA error: team_avg_cgpa adjusted (swapped with min)
+15,team_min_cgpa,3.21,2.8,CGPA error: team_min_cgpa > team_avg_cgpa — values swapped
+15,team_avg_cgpa,2.8,3.21,CGPA error: team_avg_cgpa adjusted (swapped with min)
+387,team_min_cgpa,3.35,2.73,CGPA error: team_min_cgpa > team_avg_cgpa — values swapped
+387,team_avg_cgpa,2.73,3.35,CGPA error: team_avg_cgpa adjusted (swapped with min)
+599,team_min_cgpa,3.43,2.85,CGPA error: team_min_cgpa > team_avg_cgpa — values swapped
+599,team_avg_cgpa,2.85,3.43,CGPA error: team_avg_cgpa adjusted (swapped with min)
+860,team_min_cgpa,3.81,3.2,CGPA error: team_min_cgpa > team_avg_cgpa — values swapped
+860,team_avg_cgpa,3.2,3.81,CGPA error: team_avg_cgpa adjusted (swapped with min)
+1144,team_min_cgpa,3.64,3.15,CGPA error: team_min_cgpa > team_avg_cgpa — values swapped
+1144,team_avg_cgpa,3.15,3.64,CGPA error: team_avg_cgpa adjusted (swapped with min)
+1281,team_min_cgpa,3.74,3.02,CGPA error: team_min_cgpa > team_avg_cgpa — values swapped
+1281,team_avg_cgpa,3.02,3.74,CGPA error: team_avg_cgpa adjusted (swapped with min)
+1422,team_min_cgpa,3.41,3.1,CGPA error: team_min_cgpa > team_avg_cgpa — values swapped
+1422,team_avg_cgpa,3.1,3.41,CGPA error: team_avg_cgpa adjusted (swapped with min)
+1557,team_min_cgpa,3.98,3.28,CGPA error: team_min_cgpa > team_avg_cgpa — values swapped
+1557,team_avg_cgpa,3.28,3.98,CGPA error: team_avg_cgpa adjusted (swapped with min)
+1769,team_min_cgpa,3.72,3.2,CGPA error: team_min_cgpa > team_avg_cgpa — values swapped
+1769,team_avg_cgpa,3.2,3.72,CGPA error: team_avg_cgpa adjusted (swapped with min)
