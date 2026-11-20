@@ -168,12 +168,14 @@ def run_training(clean_csv_hash: int) -> dict:
 PLOTLY_LAYOUT = dict(
     paper_bgcolor="rgba(0,0,0,0)",
     plot_bgcolor="rgba(0,0,0,0)",
-    font_color="#e2e8f0",
-    font_family="Inter",
-    title_font_size=15,
-    legend=dict(bgcolor="rgba(0,0,0,0)"),
-    xaxis=dict(gridcolor="#1e293b", linecolor="#334155"),
-    yaxis=dict(gridcolor="#1e293b", linecolor="#334155"),
+    font_color="#f8fafc",
+    font_family="Plus Jakarta Sans",
+    title_font_size=16,
+    title_font_color="#ffffff",
+    legend=dict(bgcolor="rgba(0,0,0,0)", font=dict(color="#94a3b8")),
+    xaxis=dict(gridcolor="rgba(255, 255, 255, 0.06)", linecolor="rgba(255, 255, 255, 0.12)", tickfont=dict(color="#94a3b8")),
+    yaxis=dict(gridcolor="rgba(255, 255, 255, 0.06)", linecolor="rgba(255, 255, 255, 0.12)", tickfont=dict(color="#94a3b8")),
+    margin=dict(l=40, r=40, t=50, b=40),
 )
 
 
